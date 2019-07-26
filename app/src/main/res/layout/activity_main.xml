@@ -12,21 +12,32 @@
         android:layout_height="match_parent"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
+        android:layout_marginStart="-3dp"
+        android:layout_marginTop="-2dp"
         android:clipToPadding="false"
         android:foregroundGravity="center"
         android:overScrollMode="never"></android.support.v4.view.ViewPager>
 
-    <Button
-        android:id="@+id/btnUniLife"
-        android:text="Dive into the university life"
-        android:textColor="#fff"
-        android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_marginBottom="60dp"
-        android:layout_width="wrap_content"
-        android:paddingLeft="30dp"
-        android:paddingRight="30dp"
 
-         />
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="277dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="80dp"
+        android:layout_marginTop="104dp"
+        android:text="Bielefeld University"
+        android:textSize="24sp" />
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="32dp"
+        android:layout_marginBottom="31dp"
+        android:text="Share" />
 
 </RelativeLayout>
