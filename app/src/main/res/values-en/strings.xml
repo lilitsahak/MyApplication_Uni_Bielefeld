@@ -2,4 +2,450 @@
 <resources>
     <string name="app_name">My Application_Uni_Bielefeld</string>
     <string name="Bielefeld_University">Bielefeld University</string>
+    <string name="About_Bielefeld_and_the_University">About Bielefeld and the University</string>
+    <string name="Title_UniBie">es haj em</string>
+    <string name= "ProspectiveStudents">Prospective Students</string>
+    <string name="BeforeArrival">Before Arrival</string>
+    <string name="AfterArrival">After Arrival</string>
+    <string name="Deadlines">Deadlines and Applications</string>
+    <string name="ServiceInstitutions">Services and Institutions</string>
+    <string name="FinancialAid">Financing</string>
+    <string name="ISSC">International Student Services Centre</string>
+    <string name="ISSC_title">ISSC</string>
+
+
+
+    <string name="UniBie">
+        <![CDATA[
+        <html>
+            <body>
+
+        <p><b>A Lovable place to Live</b></p><br />
+        Down to earth, pleasantly normal and laid back: a good description of many of the citys residents and of Bielefeld itself. It is precisely that mixture of a metropolitan atmosphere and almost village-like sociability that makes Bielefeld what it is: an especially lovable city to live in. </br><br />
+    With a population of over 330,000 (and constantly on the rise), Bielefeld is one of the 20 largest cities in Germany. Its residents particularly appreciate the high quality of life, the advantages of a strong economic location and the range of educational and scientific facilities. More than one billion euros has been invested by the State of North Rhine-Westphalia into Campus Bielefeld, shared between Bielefeld University and the University of Applied Sciences. This has resulted in one of the most modern facilities for education and research in Germany.
+    Few cities are as green as Bielefeld, thanks to its location amid the Teutoburg Forest, numerous parks as well as green transport corridors, with 762 kilometres of footpaths traversing the city area. For more of a city buzz, visit Siegfried Platz – known affectionately to locals as "Siggi" – in Bielefeld West, as well as Kesselbrink and Boulevard.<br /><br />
+
+<p><b>Bielefeld University: Overview</b>></p><br />
+    The university is located in the west of Bielefeld next to the Teutoburg Forest. The main building, which houses all the faculties and institutes, as well as the large library, is a functional concrete structure, typical of the 1960s.<br />
+    Intercity trains running between Cologne/Bonn and Berlin stop regularly at Bielefeld, and the university can be accessed via city tram (Line 4) in about 10 minutes from the city center—or in about 15 minutes by car. The nearest airport, Paderborn/Lippstadt, is about 50 kilometres southeast of  Bielefeld.<br /><br />
+
+
+<p> <b>Internationalisation strategy</b></p><br />
+    Bielefeld University is an internationally successful institution with networks across the globe. Its hallmark is that the experience of internationalisation is firmly anchored in all areas of the University. Bielefeld University sees itself as a social space for reflection, characterised by international exchange and cultural openness.<br />
+    It sees internationalisation as a process of change that leads to an intensification and qualitative enhancement of the international relations both within and outside the University. This process affects not only research, teaching and study, but the entire institution and the ‘culture of togetherness’. Internationalisation at Bielefeld University lives from and with scholars and students cooperating internationally. It is characterised by personal interaction and open communication.<br />
+    In many research areas, Bielefeld University is a leading research institution which attracts researchers from abroad with its strong profile and relevance. Each year it welcomes to Bielefeld several hundred visiting scholars as well as students from the whole world. These include at-risk and refugee scholars, which the University supports as a member of the Scholars at Risk Network, as well as refugees who are wishing to study. Study programmes in English, Double Degree Programmes as well as study programmes with an international track prepare students from Germany and abroad for the international job market.<br />
+    Students thus acquire intercultural competence in an environment characterised by diversity. Apart from the internationalisation ‘abroad’, the internationalisation that takes place ‘at home’ also plays a significant role and is another facet of an integrated internationalisation strategy. For this reason, the University fosters international cooperation and partnerships with universities on all continents and participates in international research projects. Students are offered various opportunities to gain experience abroad.<br />
+    </body>
+    </html>
+    ]]>
+    </string>
+
+    <string name="ProStu">
+         <![CDATA[
+        <html>
+            <body>
+        <p><b>Prospective students</b></p>
+         You are interested in studying at Bielefeld University?<br />
+        Making the decision to study abroad might be a bold one, but provides the opportunity to get to know different cultures and languages and develop a global perspective which is becoming more and more important today.<br />
+        <Bielefeld University recognises this and is therefore strongly committed to internationalisation. There are numerous cooperation agreements for research and teaching as well as for student exchange with major institutions around the world.
+        Bielefeld University provides many advantages which contribute to an excellent environment for a good working and studying life:<br />
+        <ul>
+
+<li>New perspectives and better career opportunities through a broad variety of interdisciplinary study courses</li>
+<li>	Multiple support and services for studies guarantee good integration</li>
+<li>Top-ranked research in many areas and awards for excellent teaching</li>
+<li>One of the best libraries in Germany<\li>
+<li>	A campus university with institutions in close proximity to one another - "Everything under one roof"<\li>
+<li>Affordable student accommodation in close vicinity to the campus</li>
+<li>One of the safest major cities in Germany</li>
+<li>	Diverse cultural and leisure time facilities, numerous parks and the Teutoburg Forest right on your doorstep</li>
+•   Great service for international students (support in settling in, many institutions especially for international students, assistance in finding accommodation, planning your studies, getting to know fellow students)\n
+<li>	Very wide range of degree programs to suit your interests and talents</li>
+<li>	Universities focus on excellent research resulting in excellent teaching</li>
+<li>	Close co-operations between university and industry so that a close connection between theory and practice is established</li>
+<li>Worldwide networks, based on fruitful co-operations with universities all over the world; German degrees are widely accepted and numerous International Degree Programs prepare you for an international career</li>
+<li>	Location in the heart of Europe</li>
+<li>	One of the worlds largest and most technologically advanced economies</li>
+<li>	Depending on the federal state, tuition fees are either very low or they do not exist at all</li>
+</ul><br />
+Please find more information on the study system, higher education institutions and life in Germany  <a href="https://www.study-in-germany.de/de">here</a></li>
+In order to choose a suitable study course, get acquainted with <a href="http://ekvv.uni-bielefeld.de/sinfo/publ/Home.jsp?lang=en">the wide offer of the study courses of the Bielefeld University</a>.
+For the further questions don´t hesitate to contact us via application@uni-bielefeld.de.
+
+
+        </body>
+        </html>
+        ]]>
+    </string>
+
+    <string name="AppDeadlines">
+        <![CDATA[
+        <html>
+        <body>
+      <p><b>Applications and deadlines</b></p><br />
+        You are considering applying to one of Bielefeld Universitys degree programmes. Good choice - Bielefeld University offers a wide range of study courses from humanities to natural and technical sciences.
+            Important dates for international applicants:<br />
+The application period for the summer term starting in April 1st 2020 <b>opens on December 1st 2019 and closes on January 15th 2020</b><br />
+The application period for the winter term starting in October 2020 <b>opens on June 1st 2020 and closes on July 15th  2020</b><br />
+
+        It is necessary to make an application to both study programmes with admission restrictions (numerus clausus) as well as study programmes (undergraduate) without admission restrictions. For certain study programmes you may be required to take aptitude tests varying deadlines. Both points apply whether applying for first semester studies or for applications to higher semesters.
+            <a href="https://campus.uni-bielefeld.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces?chco=y">To application and status portal</a>
+
+        </body>
+        </html>
+        ]]>
+        </string>
+
+    <string name="SerInst">
+<![CDATA[
+<html>
+<body>
+<p><b>International Office (IO)</b></p><br />
+The International Office offers counseling on the following topics: academic system, eKVV (online course catalogue), accommodation and life in Bielefeld, difficult study situations, resident permit and other similar topics. Furthermore, the IO offers counseling – within the bounds of possibility – on scholarships for international students and other study-related topics. Additionally, the International Office puts together an extensive leisure and cultural-regional program which is rich in variety: day trips, weekend excursions, multi-day trips, and meetings.<br /> <br /
+
+<p><b>International Mentoring Programme (IMP)</b></p><br />
+    The International-Mentoring-Program offers international students additional support during their studies. The program aims to help you settle into Bielefeld by finding a personal mentor for you. This mentor acts as your contact person for all questions which may arise regarding the University, the academic system or life in Bielefeld. Therefore the program coordinator Lukas Poppenborg finds a mentor (a student in a higher semester) for you to help you with your questions.<br /><br />
+
+<p><b>Student Union (AStA – Allgemeiner Studierenden Ausschuss)</b></p><br />
+    The Student Union (AStA) takes care of all student issues. It is elected each year by the Student Parliament (StuPa) and it is divided by topics into different departments. The functions of the Student Union include the political representation of the students’ interests as well as the organization of cultural events. The main function of the Student Union is the implementation of the students’ interests in all relevant university committees. The Student Union also offers different consulting services that are free of charge. Their office is at C1-154.<br /><br />
+
+<p><b>International Student Union (ISR – Internationaler Studierenden Rat)</b></p><br />
+Within the Student Union (AStA) there is a representation of international students, the International Student Union (ISR). The ISR represents the interests of international students. The ISR consists of several international students (spokesmen), who are elected by the international students each year. International students can contact the ISR if they have questions, problems or suggestions.
+        Every semester, the ISR organizes information events on important current topics, an international party, as well as leisure time activities. Newspapers are on display in their office (on level 1, next to the AStA).<br />br />
+
+<p><b>PunktUm: German Language Learning Centre</b></p><br />
+PunktUm offers courses, workshops and individual consulting services for all international students and scientists including the following topics:<br />
+<ul>
+
+<li> Scientific writing (e.g. reports, papers, Bachelor’s and Master’s thesis etc.)</li>
+<li>Oral course assignments (e.g. oral exams, presentations, etc.)</li>
+<li> Interdisciplinary and disciplinary academic language (e.g. technical language of law)</li>
+</ul><br />
+
+<p><b>Association for the Support of International Students in Bielefeld (ViSiB)</b></p><br />
+The Association supports international students during their study time at Bielefeld University. Thus, the Association aims to:<br />
+<ul>
+<li> Help international students with difficulties in Germany</li>
+<li>Promote relations between international students and people of the region</li>
+<li> Take care of international students in distress (also possibly by financial support)</li>
+<li>Varied program of leisure time activities with a focus on NRW (North Rhine-Westphalia)</li>
+ <li>Bicycle rental service</li>
+ </ul><br />
+
+
+<p><b>Central Study Counselling Center (ZSB – Zentrale Studienberatung)</b></p><br />
+    The Student Advisement and Counselling Office (ZSB), which is located in the X building at X-E1-224, offers information and counselling on all questions regarding your studies, including giving you the possibility to seek out psychological help and counselling. All counselling is fully confidential. On request, counselling can also be given in English, French, or Spanish. During the open consulting hours one can obtain information, discuss personal issues and arrange separate appointments or the participation in a group workshop.<br /><br />
+
+<p><b>Equal Opportunities Office</b></p><br />
+The main purpose of the policy of equality is to reduce structural discrimination against women at Bielefeld University. The equal opportunity commissioner advises and supports the university in this endeavor. Equal opportunity interventions intend to induce constitutive changes, so that women can study and work at Bielefeld University according to their expectations and requirements.
+    The women´s emergency call counsels and supports women and girls who underwent sexualized violence such as sexual assault, harassment, (attempted) rape or stalking.<br /><br />
+
+
+<p><b>Career Service</b></p><br />
+    The career service (SLK) is a working area that teaches and promotes different skills and competences of the students. Soft skills are competences which are necessary for the university and working life, but they are not always taught in the course of studies. These are e.g. competences to give a presentation, moderate a meeting, do research on a topic, write an academic text, discuss or work in a team.<br /><br />
+<p><b>German Speaking Muslim Student Union (DMS – Deutschsprachige Muslimische Stundentenvereinigung) </b></p><br />
+
+    The DMS aims to strengthen the consensus, understanding and corporate feeling within the Muslim student community, as well as to develop an exchange and a dialogue with other religions and university institutions. Thus, the DMS intends to improve the understanding between members of different cultures and is against any kind of nationalism, racism and sexism.<br /><br />
+
+<p><b>Protestant Student Union (ESG – Evangelische Studierendengemeinde)</b></p><br />
+    In the Protestant Student Union (ESG), people - mainly students - meet to eat together, to go to church and celebrate. Students can contact the pastor for students if they have questions and concerns. All students are welcome in the ESG, also those who do not feel affiliated with any particular religion. Every other week on Thursdays, there is an international evening in the ESG building.<br /><br />
+
+<p><b>Catholic Student Union (KHG – Katholische Hochschulgemeinde)</b></p><br />
+    The Catholic University Parish (KHG) is a union of Christian students who meet once a week for a mass and fellowship. International students can turn to the students’ parish priest, Mr. Lars Hofnagel, or another co-worker at the KHG, should they encounter difficulties of any kind. Regular events during the semester are: a mass at the KHG and once a week during the semester a table with a Catholic and a Protestant priest for the questions of the students in the University’s main hall. A program of events is published at the beginning of every semester.\n</br>
+
+</body>
+</html>
+
+]]>
+    </string>
+
+
+    <string name="Financing">
+<![CDATA[
+<html>
+<body>
+<p><b>RELIGIOUS ASSOCIATIONS\n\n</b></p>
+<br />
+<p>In general social commitment needs to be proven!</p>
+<ul>
+<li><b>Protestant Student Community (ESG)</b><br />
+For further information please contact Mr. Ulrich Melzer, pastor of the ESG Bielefeld: <a href="http://www.esg-bielefeld.ekvw.de">www.esg-bielefeld.ekvw.de</a>
+</li>
+<li><b>Association of Protestant Students e.V. Villigst</b><br />
+For Protestant students with EU citizenship. Application deadlines: 15.10.-01.03. (for winter term) or 15.04.-01.09. (for summer term).
+Further information: <a href="http://www.evstudienwerk.de">www.evstudienwerk.de</a>
+</li>
+<li><b>Catholic Student Community (KHG)</b><br />
+For further information please contact Julia Winterboer (advisor for educational, cultural and social aff airs):
+<a href="http://www.khg-bielefeld.de">www.khg-bielefeld.de</a>
+</li>
+<li><b>Ernst Ludwig Ehrlich Studienwerk (ELES)</b><br />
+For Jewish students with EU citizenship or students with a settlement permit. Application deadlines: 15.06. (for winter term) or 15.12. (for summer term).
+Further information: <a href="http://www.eles-studienwerk.de">www.eles-studienwerk.de</a>
+</li>
+<li><b>Avicenna Studienwek</b><br />
+For Muslim students with EU citizenship or students with German university entrance certifi cate. Support amount: min.300€/month. Application deadlines: 01.04. (for winter term) or 01.10. (for summer term).
+Further information:<a href="http://www.avicenna-studienwerk.de">www.avicenna-studienwerk.de</a>
+</li> <br />
+</ul>
+
+<p><b>SCHOLARSHIPS FOR LOW INCOME STUDENTS/STUDENTS IN FINANCIAL DIFFICULTIES</b></p><br />
+<ul>
+<li><b>Stiftung Studienfonds OWL</b><br />
+Social scholarship for students with personal and financial need or in cases of emergency. Their academic achievements do not have priority. Support: 1000€/year, ideational support (contacts with local companies, workshops, seminars etc.) Application deadline: Summerterm: the end of February; Winterterm: the end of August, only in written form by post or by email.Further information: <a href="http://www.studienfonds-owl.de">www.studienfonds-owl.de</a>
+</li>
+<li><b>International Office (Aid for Final Degree)</b><br />
+The object of these grants is to enable international students’ preparation for final exams to be free of fi nancial worries.
+The following criteria are required:<br />
+
+Financial need (e.g. if the student had to work in order to finance his/her studies)<br />
+Good achievements in the course of studies so far <br />
+A successful degree should be achieved within the next 6 months
+Endorsement through a professor’s assessment<br />
+Application deadlines: 15.07. (for the winter term) or 31.01. (for the summer term). For further information please contact the International Off i ce, email: betreuung-io@uni-bielefeld.de<br />
+</li>
+<li><b>ViSiB and AStA (grants in financial emergencies)</b><br />
+ViSiB and AStA give out grants in cases of financial emergency to students who unexpectedly and without any fault of their own have encountered financial difficulties. The fi nancial support is given in one amount, usually to cover rent, and usually may not surpass 250 Euro. For further information: <a href="http://www.unibielefeld.de/visib">www.unibielefeld.de/visib</a>  and <a href="http://www.asta-bielefeld.de">www.asta-bielefeld.de</a></li><br />
+</ul>
+
+<p><b>SCHOLARSHIPS FOR STUDENTS FROM CERTAIN COUNTRIES (E.G. PARTICULAR GROUPS OF PEOPLE: LATE RESETTLERS, PERSONS ENTITLED TO POLITICALASYLUM, REFUGEES)</b></p><br />
+<ul>
+<li><b>Otto-Benecke-Stiftung</b><br />
+For late resettlers, people entitled to political asylum, refugees and Jewish migrants. Support: subsidies e.g. to the costs of living, tutoring, special requirements (translations) etc. Further information: <a href="http://www.obs-ev.de">www.obs-ev.de</a>
+</li>
+<li><b>Diakonisches Werk</b><br />
+For people who have had to leave their country of origin for political, religious or ethical reasons and continue or begin their studies in Germany. Further information: <a href="http://www.azf2.de">www.azf2.de</a>
+</li>
+<li><b>Alfred Toepfer Stiftung</b><br />
+For students from Central and Eastern Europe. Further information: <a href="http://www.toepfer-stiftung.de">www.toepfer-stiftung.de</a>
+</li><br />
+</ul>
+
+<p><b>SCHOLARSHIPS FOR CERTAIN GROUPS</b></p><br />
+<ul>
+ <li><b>BAföG (Federal Education and Training Assistance Act)</b><br />
+Foreign students can be eligible to BAföG only in exceptional cases, e.g. when:<br />
+at least one of their parents has German citizenship,<br />
+they have or had a German spouse,<br />
+they are asylum seekers, stateless foreigners or refugees,<br />
+one of their parents have worked in Germany for six years before the beginning of their studies or <br />
+they had worked in Germany for five years before the beginning of their studies.
+Further information: <a href="http://www.bafög.de">www.bafög.de</a> and <a href="http://www.internationale-studierende.de">www.internationale-studierende.de</a>
+</li>
+<li><b>Dr. Willy-Rebelein Stiftung (scholarships for students
+with disabilities and chronic conditions).</b><br />
+This foundation supports students with disabilities and chronic conditions in need. Application deadline: anytime. Financial support: 300€/month Also all party-affiliated scholarships support students with disabilities or chronic conditions. The following PDF file gives a good overview of funding for students with disabilities
+or chronic conditions:  <a href="http://www.uni-wuerzburg.de/fileadmin/32500250/_temp_/Stipendienfuehrer.pdf">www.uni-wuerzburg.de/fileadmin/32500250/_temp_/Stipendienfuehrer.pdf</a>
+
+ </li> </ul> <br />
+
+<p><b>STUDENT LOANS</b></p><br />
+<ul>
+<li><b>Graduation loan of the DaKa (Dahrlehenskasse der Studentenwerke im Land Nordrhein Westfalen e.V.)</b><br />
+An interest-free loan for students in the las t phase of their studies; guarantee must be provided. First repayment is due after oneyear the last fi nancial support has been given. For further information please contact the Studierendenwerk Bielefeld or have a look at the homepage: <a href="http://daka.akafoe.de">daka.akafoe.de</a>
+</li>
+<li> <b>Social loan from the AStA</b><br />
+Further information: <a href="https://www.asta-bielefeld.de">www.asta-bielefeld.de </a>
+</li>
+<li><b> E.W. Kuhlmann-Stiftung</b><br />
+The foundation provides interest-free scholarships for students in the end phase of their studies. Max. fi nancial support: 2000€. This amount must be paid back within fi ve years. Further information: <a href="https://www.kuhlmann-stiftung-hamburg.de">www.kuhlmann-stiftung-hamburg.de</a>
+</li>
+</ul>
+
+</body><
+/html>
+]]>
+</string>
+
+
+    <string name="Before_Arrival">
+         <![CDATA[
+        <html>
+            <body>
+             <p><b>Visa and Residence Permit</b></P> <br />
+As soon as you have received the letter of admission you should start<a href="https://www.uni-bielefeld.de/studium/studieninteressierte/international/come-in/studium-mit-abschluss/vor-der-abreise/visum/#"> to prepare your life in Germany.</a>
+<br /> <br />
+    <p><b>Language Skills</b></p> <br />
+A good knowledge of German <a href="https://www.uni-bielefeld.de/studium/studieninteressierte/international/come-in/studium-mit-abschluss/sprachkenntnisse/">is essential for German-taught study courses in higher education at Bielefeld University.</a><br /> <br />
+    <p><b>Costs and financing</b></p><br />
+For international students there are <a href="https://www.uni-bielefeld.de/studium/studieninteressierte/informationen/finanzierung/index.xml?__lang=de">several possibilities</a> to finance their studies at Bielefeld University. <br /><br />
+   <p><b>Campus Contacts and Directions</b></p><br />
+<a href="https://www.uni-bielefeld.de/uni/anreise-kontakt/index.xml?__lang=en">Here</a> you will find all the information you need to find your way around Bielefeld University.<br /><br />
+    <p><b>Flat search</b></p><br />
+The International Office <a href="https://www.uni-bielefeld.de/studium/studieninteressierte/informationen/wohnen/index.xml?__lang=en">may provide support,</a> especially to students in English-speaking programs.<br /><br />
+    <p><b><a href="https://www.uni-bielefeld.de/studium/studieninteressierte/international/mentee-werden/index.xml?__lang=en">International Mentoring Programm</a></b></p><br />
+    </body>
+    </html>
+    ]]>
+</string>
+
+
+
+    <string name="ISSC_info">
+        <![CDATA[
+        <html>
+            <body>
+
+        Are you an international degree-seeking student with questions about financing your studies, about finding part-time
+        jobs or about the extension of your residence permit? Do you need information about scholarships, finding accommodations or the registering
+        for courses and exams during your studies? Do you want to meet other students and attend exciting events and excursions? The International
+        Student Services Centre (ISSC) is your first stop. We are here to advise you in all questions concerning studying and living in Bielefeld
+        and support you in overcoming the many challenges that come with studying in a foreign country. Your Academic success is important to us.<br />
+
+       <ul><li><b>Orientation and Information</b><br />
+       Beginning a degree-program in Germany is connected with lots of challenges for international students. Each semester the ISSC organizes <a href="https://www.uni-bielefeld.de/studium/studieninteressierte/international/come-in/studium-mit-abschluss/download/OrientationDays_19-20.pdf">Orientation Days</a> for all incoming international degree-seeking students, where participants have the chance to meet other students, receive important information about the university and the city and attend information seminars on financing and the legal aspects of residency during studies.
+       We highly recommend to all new international students that they take part in the Orientation Days in order to familiarise themselves with the university system and facilitate a good start to their studies. International students who miss the Orientation Days due to late arrival in Bielefeld can come see us at the ISSC Welcome Desk and register for an individual orientation in which they will receive important information on getting settled and preparing for beginning studies.</li><br /><br />
+
+
+       <li><b>Mentoring for International Students</b><br />
+       An important part of orientation is provided by the <a href="https://www.uni-bielefeld.de/studium/studieninteressierte/international/mentee-werden/index.xml">International Mentoring Programm (IMP)</a>. International Students can register for a mentor, who will provide them with immediate support upon their arrival in Bielefeld and during the first semester, giving them a trained contact partner for questions related to studies, the university, student life and the city as well as support with administrative processes, etc. Mentees have the possibility to attend an intercultural competencies workshop as well as the various social events organized throughout semester.
+       </li><br /><br />
+
+       <li><b>Advisory Services</b><br />
+       The ISSC advises International students in the areas of financing and grant possibilities, residency issues and other administrative processes, Orientation during studies, job searches and general daily matters at the university and in the city. As the main point of contact for international degree-seeking students, the ISSC is well networked with other central advisory and service organisations at the university as well as with several associations outside of the university and uses these networks actively when advising international students.
+       Financing and Residency<br />
+       residency issues, financing of studies, scholarships and financial emergency relief, looking for part-time jobs and other special guidance<br />
+       Advisory Hours<br />
+       Mon. 2.00 – 4.00 p.m. in room D0-144<br />
+       Tue. + Thu. 10.00 a.m. – 12.00 noon in D0-120
+       </li><br/><br />
+
+
+       <li><b>Financial Aid and Awards</b><br />
+       The ISSC awards administrates a diverse line of grants and prizes for international students
+       Students who are in the last phase of their studies can apply for <h href="https://www.uni-bielefeld.de/studium/studieninteressierte/international/come-in/studium-mit-abschluss/download/1_Richtlinien-Studienabschlusshilfe-EN_2019.pdf">Financial Aid for Degree Completion</a>: Graduate with Success! The grants are funded by the German Academic Exchange Service (DAAD) with the purpose of easing financial strains on students in order that they can prepare successfully for their final exams (application deadlines are Jan. 15 for the Summer Semester and July 15 for the Winter Semester. All application forms can be downloaded <a href="https://www.uni-bielefeld.de/studium/studieninteressierte/international/come-in/studium-mit-abschluss/download/index.xml">hier</a>).<br />
+       The ISSC also administrates numerous prizes for international students with excellent academic records and social engagement such as the annual DAAD-Prize, which is endowed with 1,000 €.<br />
+       The Universitätsgesellschaft Bielefeld awards grants to new international master students who are studying in an English language degree track in the 1st or 2nd semester and have excellent academic achievements. The UGBi-Grants are endowed with 4,000 € and are announced each spring. <a href="https://www.uni-bielefeld.de/studium/studieninteressierte/international/come-in/studium-mit-abschluss/download/Ausschreibung-Stipendium-2019.pdf">Call for applications</a><br />
+       International students caught in a financial emergency which they themselves have not caused have the possibility of applying with the ISSC for an emergency financial aid in order that their academic success does not become jeopardized.
+       </li><br /><br />
+
+
+       <li><b>Info-seminars and Workshops</b><br />
+       Each semester the ISSC organizes diverse info-seminars and workshops for international degree-seeking students on the legal aspects of student residency, financing studies and applying for grants, how to find a part-time job and orientation during studies.
+       The current programme can be viewed <a href="https://www.uni-bielefeld.de/studium/studieninteressierte/international/come-in/studium-mit-abschluss/2019-11-25_ISSC-Infoveranstaltungen-Programm-EN.pdf">here</a>.</li><br /><br />
+
+
+      <li><b>Connect and Discover (Leisure and Cultural Programme)</b><br />
+      Das ISSC veranstaltet jedes Semester mit Betreuungsmitteln des DAAD STIBET-Programms und einer Spende vom Verein zur Förderung von internationalen Studierenden in Bielefeld (ViSiB) ein Freizeitprogramm für <a href="https://www.uni-bielefeld.de/studium/studieninteressierte/international/come-in/studium-mit-abschluss/download/Connect-and-Discover_WiSe19_20.pdf">internationalen degree-seeking und ERASMUS Studierende</a>. Dieses hat das Ziel, durch lokale und regionale Exkursionen, Museumsbesuche, Führungen, Wanderungen und andere Outdoor-Aktivitäten die Integration der internationalen Studierenden in ihr soziales Umfeld zu fördern.
+      </li><br /><br />
+
+
+      <li><b>ISSC-Newsletter: Studying Successfully in the International Community at Bielefeld University</b><br />
+      <a href="https://www.uni-bielefeld.de/studium/studieninteressierte/international/come-in/studium-mit-abschluss/newsletter/ISSC_Newsletter_1_Sept.2019.pdf">Der ISSC-Newsletter „Erfolgreich Studieren in der internationalen Community der Universität Bielefeld“</a> richtet sich sowohl an internationale degree-seeking Studierende als auch an unsere Partner_innen in den zentralen Einrichtungen und Fakultäten, die internationale Studierende unterrichten und unterstützen. Der Newsletter informiert über das aktuelle ISSC-Programm und Service Angebot sowie über aktuelle Veranstaltungen und Möglichkeiten für internationale Studierende.</li>
+    </ul>
+    </body></html>
+    ]]>
+    </string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name= "cb1">
+        <![CDATA[
+        <html>
+            <body>
+
+       <p> <b>Step 1: Registration at City Hall(within 14 days after arrival)</b></p> <br /><br />
+        Have your landlord fill out and sign form confirming your address(<b>Wohnungsgeberbestätigung</b>); accessible online too.
+        Register in the city at the infopoint in the university main hall between <b>Sep. 30 and Oct. 18, Mon-Thu 9 a.m.-3 p.m., Fri 9 a.m.-1 p.m. OR go to City Hall (
+        Neues Rathaus, Niederwall 23, 33602 Bielefeld)</b> <br />
+        Bring your passport and the Wohnungggeberbesätigung -> receive your registration certificate(Meldebescheinigung)
+        </body></html>
+        ]]>
+    </string>
+
+    <string name = "cb2">
+         <![CDATA[
+        <html>
+            <body>
+        <b>Step 2: Health Insurance(within 30 days after your arrival)</b><br /><br />
+    Check the validity of yօur current health insurance(particularly for citizens of the EU or countries with social security agreements)
+    Please compare the terms and conditions of the different insurance providers in Bielefeld
+    Have the homogeneity of your health insurance confirmed by a public health insurer(bring your insurance policy) / OR take out new health insurance
+    Let your health provider know that you must be registered with the university in order to open a student bank account and will provide them with this information
+    once your bank account is opened
+     </body></html>
+        ]]>
+    </string>
+    <string name="cb3">
+        <![CDATA[
+        <html>
+            <body>
+
+   <b> Step 3: Enrolment at Bielefeld University</b><br />
+    Enroll at the <b>registers office(Studierendensekretariat)</b>, for Bachelor studies with Mrs. Dawkins(D0-102), for Master studies with MRS. Rybak(C0-152) and Mrs. Schätzel(C0-156)
+    Required documents:
+    Completed enrollment form
+    certificate of health insurance
+    For non-EU-citizens: Copy of your passport + residence permit(visa)
+        Your university admission letter
+        Payment of your semester fees
+        after approximately 3 days print your enrolment certificate <b>(Immatrikulationsbescheinigung)</b> from the university portal
+         </body></html>
+        ]]>
+    </string>
+
+    <string name="cb4">
+        <![CDATA[
+        <html>
+            <body>
+    <b>Step 4: Open a bank account(Girokonto)</b><br />
+    Please compare the terms and conditions of the different financial institutions in Bielefeld
+    set an appointment with a bank to open a bank account
+    bring your passport, Meldebescheinigung and Immatrikulationsbescheinigung
+    If required hand in your new bank account details to the health insurance provider
+     </body></html>
+    ]]>
+    </string>
+
+
+    <string name="cb5">
+        <![CDATA[
+        <html>
+            <body>
+        <b>Step 5(non-EU-citizens): apply for a residence permit(as soon as you have all necessary docments collected; at least 30 days before your
+        visa or visa-waiver period expires)</b><br />
+        Required documents:<br />
+        <ul>
+        <li>Completed application form</li>
+        <li>Valid passport</li>
+        <li>Meldebescheinigung</li>
+        <li>Proof of financing</li>
+        <li>Proof of adequate health insurance</li>
+        <li>Immatrikulationsbescheinigung</li>
+        <li>One biometric photograph, not older than 3 months</li>
+        <li>Application fee(100€ in cash or EC-Card)</li>
+        </ul><br />
+        go to foreigners office <b>Neues Rathaus, Niederwall 23, 33602 Bielefeld</b>
+        Oppening hours: <b>Mon and Tue 8 a.m. - 12 p.m.; Thu 8 a.m.-12 p.m. and 2:30 p.m.-6 p.m</b>
+     </body></html>
+    ]]>
+    </string>
+
+
+
+
+    <string name="wow">Congratulations</string>
+    <string name="done">Do the following steps in order to accomplish the enrollment procedure</string>
+    <string name="current_language">Deutsch</string>
+    <string name = "Chechlist">Checklist for the first steps after arrival in Bielefeld</string>
 </resources>

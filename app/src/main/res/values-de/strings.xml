@@ -2,4 +2,467 @@
 <resources>
     <string name="app_name">My Application_Uni_Bielefeld</string>
     <string name="Bielefeld_University">Universität Bielefeld</string>
+    <string name="About_Bielefeld_and_the_University">Über Bielefeld und die Universität</string>
+    <string name="Title_UniBie">es haj em</string>
+    <string name="BeforeArrival">Vor der Anreise</string>
+    <string name="AfterArrival">Nach der Anreise</string>
+    <string name="Deadlines">Fristen und Bewerbungen</string>
+    <string name= "ProspectiveStudents">Studieninterssierte</string>
+    <string name="ServiceInstitutions">Service und Institutionen</string>
+    <string name="done">mach die folgenden Schritte um eingeschrieben zu sein</string>
+    <string name="wow">herzlichen Glückwunsch</string>
+
+    <string name="FinancialAid">Finanzierung</string>
+    <string name="ISSC">International Student Services Centre</string>
+    <string name="UniBie">
+          <![CDATA[
+          <html>
+          <body>
+
+        <p><b>L(i)ebenswertes Bielefeld</b></p><br />
+
+        Bodenständig, angenehm normal und unaufgeregt: So ticken viele Bielefelderinnen und Bielefelder und das gilt auch für ihre Stadt. Die Mischung aus urbanem Flair und fast dörflichem Miteinander macht Bielefeld zu dem, was es ist: eine besonders l(i)ebenswerte Großstadt.<br />
+        Mit mehr als 330.000 Einwohnerinnen und Einwohnern zählt Bielefeld zu den 20 größten Städten Deutschlands. Die Menschen wissen hier besonders die hohe Lebensqualität, die Vorteile eines starken Wirtschaftsstandorts sowie das Bildungs- und Wissensangebot zu schätzen. Mehr als eine Milliarde Euro investiert das Land Nordrhein-Westfalen in den Campus Bielefeld, den sich Universität und Fachhochschule teilen. So entsteht einer der modernsten Standorte für Bildung und Wissenschaft in Deutschland.<br />
+        Bielefeld ist so grün wie kaum eine andere Großstadt – dank ihrer Lage im Teutoburger Wald und zahlreichen Parks und Grünzügen, die mit 762 Kilometern Wanderwegen durch das Stadtgebiet führen. Urbanes Leben pulsiert auf dem Siegfriedplatz – liebevoll „Siggi“ genannt – im Bielefelder Westen, auf dem Kesselbrink und am Boulevard.<br /><br />
+
+        <p><b>Universität Bielefeld: Überblick</b></p><br />
+
+        Die Universität Bielefeld ist eine 1969 gegründete deutsche Campus-Universität in Nordrhein-Westfalen und die größte Forschungseinrichtung in der Region Ostwestfalen-Lippe. Laut internationalem Times-Higher-Education-Ranking 2019 belegt die Bielefelder Universität einen Rang unter den Top 250 der weltbesten Universitäten.<br />
+        Die Universität Bielefeld ist mit über 24.000 Studierenden (im Wintersemester 2016/17) die größte der sechs Bielefelder Hochschulen. Unter den staatlichen Universitäten in Westfalen liegt sie in Bezug auf Mittel der Deutschen Forschungsgemeinschaft pro Professor auf dem zweiten Platz. Im Uni-Ranking des Magazins Focus vom September 2005 belegte die Universität Bielefeld den 10. von insgesamt 86 Plätzen. In den Fachbereichen Erziehungswissenschaft und Soziologie belegte sie den ersten Platz.<br />
+        Da die Universität eine der wenigen Hochschulen ist, die fast alle Fakultäten unter einem Dach vereint, gilt sie als die „Universität der kurzen Wege“.<br /><br />
+
+        <p><b>Internationalisierungsstrategie</b></p><br />
+        Die Universität Bielefeld ist eine international erfolgreiche und global vernetzte Institution. Ihr Markenzeichen ist die feste Verankerung von Internationalisierungserfahrungen in allen Bereichen der Universität. Die Universität Bielefeld versteht sich als gesellschaftlicher Reflexionsraum, der von internationalem Austausch und kultureller Offenheit geprägt ist.<br />
+        Sie sieht Internationalisierung als Prozess der Veränderung, der zu einer Intensivierung und qualitativen Aufwertung der internationalen Beziehungen in und außerhalb der Universität führt. Dieser Veränderungsprozess betrifft nicht nur Forschung, Lehre und Studium, sondern die gesamte Institution und die Kultur des Miteinanders. Internationalisierung an der Universität Bielefeld lebt von und mit den international kooperierenden Wissenschaftlerinnen, Wissenschaftlern und Studierenden und ist geprägt von persönlicher Interaktion und offener Kommunikation.<br />
+        Die Universität Bielefeld ist in mehreren Forschungsfeldern Spitzenstandort mit hoher internationaler Sichtbarkeit, Relevanz und Attraktivität für Wissenschaftlerinnen und Wissenschaftler aus dem Ausland. Jährlich begrüßt sie mehrere Hundert Gastwissenschaftlerinnen und Gastwissenschaftler sowie Studierende aus der ganzen Welt in Bielefeld. Dazu zählen auch gefährdete und geflüchtete Forschende, die die Universität als Mitglied des Scholars at Risk Network unterstützt, und geflüchtete Studieninteressierte und Studierende. Englischsprachige Studiengänge, Double Degree Programme sowie Studiengänge mit International Track bereiten Studierende aus dem In- und Ausland auf den internationalen Arbeitsmarkt vor. Damit erwerben Studierende interkulturelle Kompetenz in einem von Diversität geprägten Umfeld.<br />
+        Neben der Internationalisierung „zuhause“ spielt auch die Internationalisierung außerhalb Deutschlands eine zentrale Rolle und ist eine weitere Facette einer integrierten Internationalisierungsstrategie. Daher pflegt die Universität internationale Kooperationen und Partnerschaften mit Hochschulen auf allen Kontinenten und beteiligt sich an zahlreichen internationalen Forschungsprojekten. Studierenden werden verschiedene Möglichkeiten geboten, Auslandserfahrungen zu sammeln.</br>
+</body>
+</html>
+]]>
+</string>
+
+
+
+
+    <string name = "ProStu">
+        <![CDATA[
+        <html>
+        <body>
+        <p>  <b>Studieninteressierte</b></p>  <br />
+
+
+Sie interessieren sich für ein Studium an der Universität Bielefeld?<br />
+    Ein Studium im Ausland zu absolvieren mag eine Herausforderung sein, doch bietet es auch die Chance, andere Kulturen und Sprachen kennenzulernen, wertvolle Erfahrungen zu machen und globale Sichtweisen zu entwickeln, die heutzutage immer wichtiger werden.<br />
+
+Die Universität Bielefeld hat dies erkannt und will ihre internationale Ausrichtung, die sich bereits in modernen Studienstrukturen, internationalen Graduate Schools und zahlreichen Forschungskooperationen sowie Austauschprogrammen widerspiegelt, vorantreiben.
+Es erwarten Sie hier beste Bedingungen, die zum Gelingen der Lern- und Lebensphase im Studium beitragen:<br />
+    <ul>
+	<li>Interdisziplinäre Studienangebote eröffnen neue Sichtweisen und Karrierewege</li>
+        <li>Exzellente Betreuungs- und Beratungsangebote für internationale Studierende erleichtern eine schnelle Integration</li>
+        <li>Eine Campus-Universität der kurzen Wege - alles unter einem Dach</li>
+        <li>Eine der besten Bibliotheken Deutschlands</li>
+        <li>Günstiges Wohnen in Campusnähe</li>
+        <li>Vielfältige Kultur- und Freizeitangebote, unzählige Parks und den Teutoburger Wald direkt vor der Tür</li>
+        <li>Eine der sichersten Großstädte Deutschlands</li>
+        <li>Top-Rankings in vielen Forschungsbereichen und prämiert im Wettbewerb "Exzellente Lehre"</li>
+
+        <li>	Ausgezeichneter Service für internationale Studierende (Unterstützung beim Einleben, Institutionen, die speziell auf internationale Studierende ausgerichtet sind, Hilfe bei der Wohnungssuche und bei der Studienplanung, Kontakt zu Kommilitonen)</li>
+        <li>	Sehr vielfältiges Studienangebot, passend zu Ihren Interessen und Fähigkeiten</li>
+        <li>Universitäten legen großen Wert auf Spitzenforschung und ausgezeichnete Lehre</li>
+        <li>	Enge Kooperationen zwischen Universitäten und Wirtschaftsunternehmen führen zu einer optimalen Verbindung von Theorie und Praxis</li>
+        <li>	Weltweite Netzwerke, die auf erfolgreichen Kooperationen mit Universitäten auf der ganzen Welt basieren; Deutsche Abschlüsse werden überall auf der Welt anerkannt und zahlreiche internationale Studiengänge bereiten auf eine internationale Karriere vor.</li>
+        <li>	Deutschland liegt im Herzen Europas</li>
+        <li>Eine der größten und technologisch sehr weit fortgeschrittenen Wirtschaftsmächte</li>
+        <li>	Je nach Bundesland gibt es keine oder nur sehr niedrige Studiengebühren</li>
+        </ul> <br />
+
+Mehr Informationen zum Studiensystem, Hochschulen und zum Leben in Deutschland finden Sie
+<a href="https://www.study-in-germany.de/de">hier</a>.
+Um einen passenden Studiengang zu finden, lernen Sie <a href="http://ekvv.uni-bielefeld.de/sinfo/publ/Home.jsp">das gesammte Studeinangebot der Universität Bielefeld</a> kennen.
+Für weitere Fragen schreiben Sie bitte eine E-Mail an application@uni-bielefeld.de.
+
+</body>
+    </html>
+    ]]>
+    </string>
+
+
+    <string name="AppDeadlines">
+        <![CDATA[
+        <html>
+        <body>
+
+        <p><b>Bewerbungen und Fristen</b></p><br />
+        Sie möchten sich für ein Studium an der Universität Bielefeld bewerben?<br />
+        Eine gute Wahl - Die Universität Bielefeld bietet Ihnen ein großes Studienangebot in Geistes-, Natur-, Sozial- und Technikwissenschaften.
+            Auf den folgenden Webseiten finden Sie detaillierte Information über das Bewerbungsverfahren an der Universität Bielefeld.
+            Wichtige Daten für internationale BewerberInnen:<br />
+        Bewerbungszeitraum für den Studienbeginn zum Sommersemester 2020 ist <b>01.12.2019 – 15.01.2020</b><br />
+        Bewerbungszeitraum für den Studienbeginn zum Wintersemester 2020/21 ist <b>01.06.2020 - 15.07.2020</b><br />
+        <br>Sowohl für zulassungsbeschränkte Studiengänge als auch zulassungsfreie Studiengänge müssen Sie sich bewerben. Bei einzelnen Studienangeboten können zudem Eignungstests mit abweichenden Fristsetzungen erforderlich sein. Beides gilt sowohl für Bewerbungen auf ein erstes als auch für höhere Fachsemester.
+<a href="https://campus.uni-bielefeld.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces?chco=y">Zum Bewerbungs-und Statusportal</a>
+
+            </body>
+            </html>
+            ]]>
+    </string>
+
+
+
+    <string name="SerInst">
+        <![CDATA[
+        <html>
+        <body>
+
+<p><b>International Office (IO)</b></p><br />
+Das International Office bietet Ihnen Beratung in den Bereichen: Studiensystem, eKVV, Wohnen und Leben in Bielefeld, schwierige Studiensituationen, etc. Zudem bietet das International Office – soweit möglich – Beratung zu Stipendien für internationale Studierende, zu beruflichen Perspektiven nach dem Studium und anderen stu-dienrelevanten Themen an.
+    Darüber hinaus stellt das International Office ein umfangreiches Freizeit- und Kulturprogramm zusammen: Ta-gesexkursionen, Mehrtagesfahrten inner- und außerhalb NRWs, Themenabende etc.<br /><br />
+
+<p><b>International Mentoring Programme (IMP)</b></p><br />
+    Ziel des Programms ist es, neuen internationalen Studierenden das Einleben in Bielefeld zu erleichtern. Dazu vermittelt Ihnen der Programm-Koordinator Lukas Poppenborg ein/e MentorIn (Studierende höherer Semester), die als persönliche Ansprechpartner und Ansprechpartnerinnen bei Fragen zur Uni, zum Studium und zur Stadt zur Verfügung stehen. Das International-Mentoring-Program unterstützt Sie, indem es Ihnen MentorInnen aus allen Fächern an die Seite stellt, die Hilfe im Alltag leisten.<br /><br />
+
+<p><b>Allgemeiner Studierenden Ausschuss (AStA)</b></p><br />
+    Der Allgemeine Studierenden Ausschuss (kurz: AStA) kümmert sich um die Belange aller Studierenden. Er wird durch das Studierendenparlament (kurz: StuPa) für ein Jahr gewählt und teilt sich nach Themen in verschiedene Referate auf. Die Aufgaben des AStA reichen von der politischen Interessenvertretung bis zur Organisation kultureller Veranstaltungen. Die wichtigste Säule in der Arbeit des AStA ist jedoch die Durchsetzung studenti-scher Belange in allen relevanten universitären Gremien. Zudem bietet der AStA auch ein breites Spektrum an unterschiedlichen, kostenlosen Beratungen an. Der Hauptteil der politischen Arbeit findet in den Referaten des AStA statt. Das Referat für Internationales und Frieden dient unter anderem auch als Anlaufstelle bei Problemen internationaler Studierender. Der AStA und das Referat für Internationales und Frieden sind auf der Galerie zu finden (C1-154).\n</br>
+
+<p><b>Internationaler Studierendenrat (ISR)</b></p><br />
+    Innerhalb des AStA gibt es eine Vertretung der internationalen Studierenden, den Internationalen Studierenden-rat (ISR), der Ihre Interessen vertritt. Den ISR bilden mehrere ausländische Studierende (Sprecher und Spreche-rinnen), die von den internationalen Studierenden jedes Jahr neu gewählt werden. An den ISR können sich inter-nationale Studierende jederzeit mit Fragen, Problemen und Anregungen wenden. In jedem Semester organisiert der ISR Informationsveranstaltungen zu wichtigen aktuellen Themen, ein internationales Fest sowie Freizeitan-gebote (z.B. Schwimmkurse, Tischtennisabende etc.).<br /><br />
+
+<p><b>PunktUm</b></p><br />
+ Die Test-DaF- bzw. DSH-Prüfung bescheinigt für den Studieneinstieg ausreichende Deutschkenntnisse. Für die Bewältigung der sprachlichen Anforderungen im Studium reichen diese allein meist nicht aus. Insbesondere die Wissenschaftssprache Deutsch muss im Studium kontinuierlich ausgebaut werden. Dies ist eine wichtige Vo-raussetzung für die aktive Mitarbeit in Vorlesungen und Seminaren sowie für das Verfassen von Klausuren, Haus- und Abschlussarbeiten und somit auch für den erfolgreichen Studienabschluss.
+ PunktUm ist die zentrale Einrichtung der Universität Bielefeld zur Beratung und zum Training internationaler Studierender in der Fremdsprache Deutsch. Alle PunktUm-Angebote sind reguläre Studienangebote. Sie sind modularisiert und können deshalb problemlos mit den Fachmodulen aller Fächer kombiniert werden.<br /><br />
+
+<p><b>Verein zur Förderung internationaler Studierender in Bielefeld e.V. (ViSiB)</b></p> <br />
+
+Der Verein unterstützt internationale Studierende der Bielefelder Hochschulen, um ihnen die Integration an ih-rem Studienstandort zu erleichtern.
+Dazu gibt es verschiedene Angebote:<br />
+<ul>
+<li>Vermittlung von Paten(-familien) an internationale Studierende</li>
+<li>Verleih von Fahrrädern</li>
+<li> ein abwechslungsreiches Freizeitangebot, Schwerpunkt NRW</li>
+<li>Hilfe in finanziellen Notlagen</li>
+<li> wöchentliche Sprechstunden/Beratungsangebot</li>
+ </ul><br /><br />
+
+<p><b>Zentrale Studienberatung (ZSB)</b></p><br />
+Die Zentrale Studienberatung (ZSB) bietet Information und Beratung zu allen Fragen, die mit dem Studium in Zusammenhang stehen an, darunter besteht auch die Möglichkeit, psychologische Hilfe und Beratung in An-spruch zu nehmen. Die Vertraulichkeit der Beratung ist gewährleistet. In den offenen Sprechstunden der ZSB können Informationen eingeholt, persönliche Anliegen besprochen und Einzeltermine sowie die Teilnahme an einem Gruppenangebot verabredet werden. Eine Voranmeldung zu den Sprechstunden ist nicht erforderlich.<br />
+
+<p><b>Gleichstellungsbüro</b></p><br />
+Die strukturelle Diskriminierung von Frauen abzubauen ist das wesentliche, gesetzlich verankerte Ziel der Gleichstellungspolitik der Universität Bielefeld. Die Gleichstellungsbeauftragten beraten und unterstützen die Hochschule bei dieser Querschnittsaufgabe. Gleichstellungsmaßnahmen erschöpfen sich nicht in Personalpolitik, sondern zielen weitergehend darauf, grundlegende Veränderungen herbeizuführen, damit Frauen an der Univer-sität Bielefeld entsprechend ihrer Vorstellungen lernen und arbeiten können. Das Gleichstellungsbüro bietet vielseitige Angebote im Bereich Studieren mit Kindern an und berät und unterstützt bei sexualisierter Diskrimi-nierung und Gewalt.<br /><br />
+
+<p><b>Career Service (SLK)</b></p><br />
+    Die Angebote des Career Service bieten die Möglichkeit, sich schon während des Studiums gut auf das spätere Berufsleben vorzubereiten. Es werden Workshops für den Berufseinstieg durchgeführt. Darüber hinaus beraten die Mitarbeiter und Mitarbeiterinnen bei Fragen zur beruflichen Orientierung, zur Studien- und Karriereplanung, zur Praktikums- oder Stellensuche, zur Bewerbung oder zum Einstieg ins Arbeitsleben.<br /><br />
+
+<p><b>Deutschsprachige Muslimische Studentenvereinigung (DMS)</b></p><br />
+Die DMS ist bestrebt, innerhalb der muslimischen Studierenden Konsens, Verständigung und das Gemein-schaftsgefühl zu stärken, sowie für den Austausch und Dialog mit anderen Religionen und Hochschulgruppen einzutreten.
+    Der Verein will dadurch auch zu einer besseren Verständigung zwischen den Angehörigen unterschiedlicher Kulturen beitragen und lehnt jede Art von Nationalismus, Rassismus und Sexismus ab. Um diese Ziele zu errei-chen, führt der Verein insbesondere monatliche Treffen, Vorträge, Informations- und Diskussionsveranstaltun-gen durch.<br /><br />
+
+<p><b>Evangelische Studierendengemeinde (ESG)</b></p><br />
+    Die ESG ist die evangelische Kirche an der Hochschule und offen für Studierende aller Konfessionen und Reli-gionen ebenso wie für Religionslose. In dem gemütlichen ESG-Haus werden kulturelle Ereignisse genauso wie Gottesdienste und Andachten gefeiert. Jeden zweiten Donnerstagabend findet dort ab 19.00 Uhr der Internationa-le Abend statt mit gemeinsamen Essen und anschließender entwicklungspolitischer Diskussion über ein jeweils anderes Land. Seelsorge und Beratung sind jederzeit möglich.<br /><br />
+
+<p><b>Katholische Hochschulgemeinde (KHG)</b></p><br />
+    Die Katholische Hochschulgemeinde (KHG) versteht sich als Zusammenschluss christlich motivierter Studie-render, die sich einmal in der Woche zum Gottesdienst und einem Gespräch danach treffen. Ausländische Stu-dierende können sich an den Studentenpfarrer, Herrn Lars Hofnagel oder an die anderen MitarbeiterInnen der KHG wenden, wenn sie Probleme in irgendeiner Form haben.
+ </body>
+</html>
+]]>
+    </string>
+
+
+
+    <string name="Financing">
+        <![CDATA[
+<html>
+<body>
+<p><b>RELIGION\n\n</b></p>
+<br />
+<p>Generell gilt, dass gesellschaftliches Engagement nachgewiesen werden muss!</p>
+<ul>
+<li><b>Evangelische Studierendengemeinde (ESG)</b><br />
+Für weitere Informationen kontaktieren Sie bitte Herrn Ulrich Melzer, Pfarrer der ESG Bielefeld: <a href="http://www.esg-bielefeld.ekvw.de">www.esg-bielefeld.ekvw.de</a>
+</li>
+<li><b>Evangelisches Studienwerk e.V. Villigst</b><br />
+Für evangelische EU-Bürgerinnen und Bürger. Bewerbungsfristen:15.10.-01.03. (für die Aufnahme im WiSe) bzw. 15.04.-01.09. (für die Aufnahme im SoSe). Für weitere Informationen: <a href="http://www.evstudienwerk.de">www.evstudienwerk.de</a>
+</li>
+<li><b>Katholische Hochschulgemeinde (KHG)</b><br />
+Für weitere Informationen kontaktieren Sie bitte Frau Julia Winterboer (Referentin für Bildung, Soziales und Kultur):
+<a href="http://www.khg-bielefeld.de">www.khg-bielefeld.de</a>
+</li>
+<li><b>Ernst Ludwig Ehrlich Studienwerk (ELES)</b><br />
+Für jüdische EU-Bürgerinnen und Bürger oder Studierende mit einer Niederlassungserlaubnis etc. Bewerbungsfristen: 15.06.
+(für das WiSe) bzw. 15.12. (für das SoSe).Für weitere Informationen: <a href="http://www.eles-studienwerk.de">www.eles-studienwerk.de</a></li>
+<li><b>Avicenna Studienwerk</b><br />
+Für muslimische EU-Bürgerinnen und Bürger oder Studierende mit deutscher Hochschulzugangsberechtigung. Förderung: min.
+300€/Monat. Bewerbungsfristen: 01.04. (Förderbeginn zum darauffolgenden WiSe) bzw. 01.10. (Förderbeginn zum darauffolgenden SoSe). Für weitere Informationen:<a href="http://www.avicenna-studienwerk.de">www.avicenna-studienwerk.de</a></li>
+</li> <br />
+</ul>
+
+<p><b>SOZIALE FAKTOREN/BEDÜRFTIGKEIT</b></p><br />
+<ul>
+<li><b>Stiftung Studienfonds OWL</b><br />
+Sozialstipendien zur Unterstützung von Studierenden infinanzieller oder persönlicher Not, bei denen die Schul- und
+Studienleistungen der Bewerberinnen und Bewerber nicht im Vordergrund stehen. Förderung: 1000€/Jahr, ideelle Förderung (Kontakte zu Unternehmen vor Ort, Workshops, Seminare usw.). Bewerbungsschluss: SoSe: Ende Februar; WiSe: Ende
+August, nur schriftlich per Post oder per E-Mail. Für weitere Informationen: <a href="http://www.studienfonds-owl.de">www.studienfonds-owl.de</a>
+</li>
+<li><b>Studienabschlusshilfe (International Office</b><br />
+Studienabschlusshilfen sollen ausländischen Studierenden eine von finanzieller Sorge weniger belastete Vorbereitung auf das
+Abschlussexamen ermöglichen.
+Folgende Kriterien werden zugrunde gelegt:<br />
+
+Bedürftigkeit (z.B. wenn das Studium bisher durch
+Arbeit teilfinanziert wurde)<br />
+Gute Leistungen im bisherigen Studium <br />
+Ein guter Abschluss sollte in 6 Monaten erreicht
+werden<br />
+Befürwortung durch ein Gutachten<br />
+Bewerbungsfristen: 15.07. (für eine Förderung zum folgenden WiSe) bzw. 31.01. (für eine Förderung zum folgenden SoSe). Für weitere Informationen kontaktieren Sie das International Office E-Mail: betreuung-io@uni-bielefeld.de<br />
+</li>
+<li><b>ViSiB (Nothilfe) und AStA (Nothilfe)</b><br />
+Nothilfen für Studierende, die unerwartet und ohne eigene Schuld in Schwierigkeiten geraten sind. Die Unterstützung wird
+einmalig gewährt, zumeist für die Miete, und darf meistens 250 Euro nicht übersteigen. Weitere Informationen:
+<a href="http://www.unibielefeld.de/visib">www.unibielefeld.de/visib</a> und <a href="http://www.asta-bielefeld.de">www.asta-bielefeld.de</a>
+</li><br /><br />
+</ul>
+
+<p><b>SPEZIFISCHE LÄNDER (Z.B. BESONDERER PERSONENKREIS: SPÄTAUSSIEDLER, ASYLBERECHTIGTE, FLÜCHTLINGE</b></p><br />
+<ul>
+<li><b>Otto-Benecke-Stiftung</b><br />
+Für Spätaussiedlerinnen und -aussiedler, Asylberechtigte, Flüchtlinge, Jüdische Migrantinnen und Migranten. Die Förderung umfasst Zuschüsse zu z.B. Lebenshaltungskosten, Nachhilfe, Sonderbedarfe
+(Übersetzungen). Für weitere Informationen: <a href="http://www.obs-ev.de">www.obs-ev.de</a>
+</li>
+<li><b>Stipendium vom Diakonischen Werk</b><br />
+Für Personen, die ihr Herkunftsland (sogenannte Entwicklungsländer)aus politischen, religiösen oder ethnischen Gründen verlassen mussten und ihr Studium in Deutschland fortsetzen oder beginnen.
+Für weitere Informationen: <a href="http://www.azf2.de">www.azf2.de</a>
+</li>
+<li><b>Alfred Toepfer Stiftung</b><br />
+Für Studierende aus Mittel-und Osteuropa. Für weitere Informationen: <a href="http://www.toepfer-stiftung.de">www.toepfer-stiftung.de</a>
+</li><br />
+</ul>
+
+<p><b>SPEZIFISCHE GRUPPEN</b></p><br />
+<ul>
+ <li><b>Förderung durch BAföG (Bundesausbildungsförderungsgesetz)</b><br />
+Das BAföG, eine staatliche Studienförderung in Deutschland, ist für internationale Studierende nur in Ausnahmefällen möglich.
+Internationale Studierende sollen ihren Anspruch u.a. dann klären,wenn:<br />
+ein Elternteil die deutsche Staatsangehörigkeit besitzt,<br />
+sie einen deutschen Ehepartner haben oder hatten,<br />
+sie asylberechtigt, heimatlos oder aufgenommener Flüchtling sind,<br />
+ein Elternteil innerhalb von sechs Jahren vor Beginn des
+Studiums drei Jahre in Deutschland rechtmäßig erwerbstätig
+war, oder<br />
+wenn sie vor Beginn des Studiums fünf Jahre in Deutschland
+rechtmäßig erwerbstätig waren. Nähere Informationen auf <a href="http://www.bafög.de">www.bafög.de</a> und <a href="http://www.internationale-studierende.de">www.internationale-studierende.de</a>
+</li>
+<li><b>Dr. Willy-Rebelein Stiftung (Stipendien für Studierende
+mit Behinderung oder chronischer Erkrankung).</b><br />
+Gefördert werden Studierende mit Behinderung oder chronischer
+Krankheit, die finanziell bedürftig sind. Bewerbungsfrist: jederzeit. Förderung: 300€/Monat (auch alle Stipendien in der Rubrik
+Parteinahe Stiftungen fördern Studierende mit Behinderung oder chronischer Erkrankung). Einen guten Überblick für Studierende mit Behinderung finden Sie unter:  <a href="http://www.uni-wuerzburg.de/fileadmin/32500250/_temp_/Stipendienfuehrer.pdf">www.uni-wuerzburg.de/fileadmin/32500250/_temp_/Stipendienfuehrer.pdf</a>
+ </li> </ul> <br />
+
+<p><b>DARLEHEN</b></p><br />
+<ul>
+<li><b>Daka-Darlehen</b><br />
+Die Darlehenskasse der Studierendenwerke im Land Nordrhein-Westfalen e.V.(Daka) fördert Studierende, die sich in der
+Studienabschlussphase befinden, durch zinslose Darlehen. Mit dem Daka-Darlehen soll Studierenden die wirtschaftliche Grundlage gegeben werden, sich frei von Belastungen durch Jobs zur Sicherung des Lebensunterhalts dem Studium zu widmen und dieses erfolgreich abzuschließen. Zu beachten ist, dass für den Erhalt eines Darlehens die Sicherstellung eines Bürgen vorausgesetzt wird. Des Weiteren muss das Darlehen spätestens ein Jahr nach der letzten Auszahlung in Raten zurückgezahlt werden. Weitere Informationen zum Studienabschluss-darlehen erhalten Sie direkt beim Studierendenwerk
+Bielefeld oder im Internet unter:  <a href="http://daka.akafoe.de">daka.akafoe.de</a>
+</li>
+<li> <b>Sozialdarlehen vom AStA</b><br />
+Für weitere Informationen kontaktieren Sie bitte den AStA:
+<a href="https://www.asta-bielefeld.de">www.asta-bielefeld.de </a>
+</li>
+<li><b>E.W. Kuhlmann-Stiftung</b><br />
+Die Stiftung vergibt zinslose Stipendien für die Abschlussphase des Studiums mit einem Maximalbetrag von 2000€. Dieser muss innerhalb von fünf Jahren wieder zurückgezahlt werden. Für weitere Informationen:
+   <a href="https://www.kuhlmann-stiftung-hamburg.de">www.kuhlmann-stiftung-hamburg.de</a>
+</li>
+</ul>
+
+</body></html>
+]]>
+</string>
+    <string name="Before_Arrival">
+       <![CDATA[
+<html>
+<body>
+ <p><b>Visum und Aufenthaltserlaubnis</b></p><br />
+Sobald man die Zulassung von der Universität Bielefeld bekommen hat,<a href="https://www.uni-bielefeld.de/studium/studieninteressierte/international/come-in/studium-mit-abschluss/vor-der-abreise/visum/#">beginnen die Vorbereitungen für den Aufenthalt in Deutschland.</a> <br /><br />
+    <p><b>Sprachkenntnisse</b></p><br />
+Für ein erfolgreiches Studium an der Universität Bielefeld sind <a href="https://www.uni-bielefeld.de/studium/studieninteressierte/international/come-in/studium-mit-abschluss/sprachkenntnisse/#">gute deutsche Sprachkenntnisse erforderlich.</a><br /><br />
+   <p><b>Kosten und Finanzierung</b></p>
+Für internationale Studierende gibt es <a href="https://www.uni-bielefeld.de/studium/studieninteressierte/informationen/finanzierung/index.xml?__lang=de">verschiedene Möglichkeiten</a>, das Studium an der Universität Bielefeld zu finanzieren.<br /><br />
+   <p><b>Anreise</b></p>
+<a href="https://www.uni-bielefeld.de/uni/anreise-kontakt/index.xml?__lang=en">Hier</a> finden Sie alle Informationen zur Orientierung an der Universität Bielefeld.<br /><br />
+   <p><b>Wohnungssuche</b></p>
+<a href="https://www.uni-bielefeld.de/studium/studieninteressierte/informationen/wohnen/index.xml?__lang=en">Eine Unterstützung bei der Wohnungssuche</a> des International Office ist möglich, insbesondere für Studierende in englischsprachigen Studiengängen.<br /><br />
+  <p><b><a href="https://www.uni-bielefeld.de/studium/studieninteressierte/international/mentee-werden/index.xml?__lang=en">International Mentoring Programm</a></b></p>
+
+
+    </body></html>
+    ]]>
+
+    </string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name= "cb1">
+    <![CDATA[
+    <html>
+    <body>
+
+
+
+    <b>Schritt 1: Persönliche anmeldung des Wohnsitzes (innerhalb der ersten 14 Tage nach der Ankunft)</b><br />
+    Formular zur Wohnungsgeberbestätigung vom Vermieter ausfüllen lassen (online verfügbar über hhps://www.bielefeld.de/ftp/formulare/Wohnungsgeberbestätigung0119.pdf
+    Im Zeitraum vom 30.9-18.10., Mo.-Do. von 9 bis 15 Uhr, Fr. von 9 bis 13 Uhr am Infopunkt in der Unihalle anmelden ODER zur Bürgerberatung gehen (Neues Rathaus/Bürgeramt, Niederwall 23, 33601 Bielefeld, online Termin reservieren über https://tempus-termine.com/termine/index.php?anlagennr=83)
+    nicht vergessen: Personalausweis, Reisepass und ausgefüllte Wohnungsgeberbestätigung vorlegen -> Meldebescheinigung erhalten
+    </body></html>
+    ]]>
+    </string>
+
+    <string name = "cb2">
+    <![CDATA[
+    <html>
+    <body>
+    <b>Schritt 2: Krankenversicherung abschließen(innerhalb von 30 Tagen nach der Ankunft)</b>
+    Gleichartigkeit der bestehenden Versicherung prüfen (insbesondere wichtig für Studierende uas EU-Ländern sowie Partner-Ländern von entsprechenden Sozialversicherungsabkommen)
+    Über verschiedene Krankenkassen und Versicherungsmöglichkeiten in Bielefeld informieren
+    von einer gesetzlichen Krankenkasse Gleichartigkeit des aktuellen Versicherungsschutz bestätigen lassen ODER eine Krankenversicherung abschließen
+    </body></html>
+    ]]>
+    </string>
+    <string name="cb3">
+    <![CDATA[
+   <html>
+   <body>
+
+   <b>Schritt 3:Einschreibung/Immatrikulation</b><br />
+    Immatrikulation im Studierendensekretariat (Sachgebiet Internationale Studierende), für den Bachelor bei Frau Dawkins(D0-102), für den Master bei Frau Rybak(C0-152) oder Frau Schätzel(C0-156)
+    Bitte nicht vergessen:
+    ausgefüllter Antrag auf EInschreibung
+    Krankenversicherungsbescheinigung zur Einschreibung an einer Hochschule
+    Studierende aus Nicht_EU-Ländern: Passkopie + gültige Aufenthaltserlaubnis
+    Zulassungsschreiben bei zulassungsbeschränkten Studiengängen
+    nach Erhalt des Zahlscheins mit den Hochschulzugangsdaten den Semesterbeitrag überweisen
+    nach ca. 3 Tagen den freigeschalteten Zugang zum Hochschulportal nutzen, um auf Immatrikulationsbescheinigungen zuzugreifen
+    </body></html>
+    ]]>
+    </string>
+
+    <string name="cb4">
+    <![CDATA[
+    <html>
+    <body>
+
+    <b>Schritt 4: Konto eröffnen</b><br />
+    über verschiedene Banken und Finanzcenter in Bielefeld informieren
+    telefonisch oder persönlich einen Termin zur Kontoeröffnung vereinbaren
+    zum Termin einen Ausweis, Meldebescheinigung und Immatrikulationsbescheinigung mitnehmen
+    gegebenfalls Kontodaten bei Versicherung nachreichen
+    </body></html>
+    ]]>
+    </string>
+
+    <string name="cb5">
+    <![CDATA[
+    <html>
+    <body>
+
+    <b>Schritt 5: Aufenthaltstitel beantragen bei außereuropäischer Staatsbürgerschaft(sobald alle erforderlichen Dokumente vorliegen: spätestens 30 Tage bevor das Einreisevisum abläuft)</b>
+    die erforderlichen Dokumente bereitlegen:<br />
+    <ul>
+    <li>Ausgefülltes Antragsformular</li>
+    <li>Gülltiger Ausweis + eine Kopie</li>
+    <li>Meldebescheinigung + eine Kopie</li>
+    <li>Nachweis über die finanzielle Absicherung</li>
+    <li>Krankenversicherungsbescheinigung</li>
+    <li>Immatrikulationsbescheinigung</li>
+    <li>biometrisches Passbild max. 3 Monate alt</li>
+    <li>Verwaltunggebühr (100€ in Bar oder eine EC-Karte)</li></ul><br />
+    zur Ausländerbehörde(Neues Rathaus, Niederwall 23, 33602 Bielefeld<br />
+    offene Sprechzeiten: <b>Mo und Di 8-12 Uhr; Do 8-12 Uhr und 14:30-18 Uhr, alternativ vorher einen Termin vereinbaren</b>
+     </body></html>
+     ]]>
+    </string>
+
+    <string name="current_language">English</string>
+    <string name = "Chechlist">Checkliste für die ersten Schritte nach der Ankunft in Bielefeld</string>
+    <string name="ISSC_title">ISSC</string>
+    <string name="ISSC_info">
+         <![CDATA[
+         <html>
+         <body>
+
+        Sind Sie ein_e internationale_r degree-seeking Studierende_r mit Fragen zur Studienfinanzierung, zur Nebenjobsuche oder zur Aufenthaltstitelverlängerung? Brauchen Sie Informationen über Stipendien, die Wohnungssuche oder das Studiensystem? Möchten Sie andere Studierende kennenlernen und an spannenden Veranstaltungen, Exkursionen und Events teilnehmen? Das International Student Services Centre (ISSC) hilft Ihnen bei allen Fragen rund um das Studieren und Leben in Bielefeld und organisiert jedes Semester ein vielfältiges
+        studienbegleitendes Programm für Sie. Ihr Studienerfolg ist unsere Mission!<br /> <br />
+        <ul>
+        <li>
+        <b>Orientierung zum Studienbeginn</b><br />
+        Für internationale Studierende ist die Aufnahme eines Studiums in Deutschland mit vielen Herausforderungen verbunden. Um Ihnen einen möglichst guten Start in das Studium an der Universität Bielefeld zu ermöglichen, möchten wir Sie auf die folgende Informationen und Unterstützungsangebote hinweisen:<br />
+        Das ISSC veranstaltet jedes Semester die allgemeinen <a href="https://www.uni-bielefeld.de/studium/studieninteressierte/international/come-in/studium-mit-abschluss/download/OrientationDays_19-20.pdf">Orientierungstage für internationale degree-seeking Studierende</a>, die ein Studium an der Universität Bielefeld aufnehmen. Durch ihre Teilnahme haben neue Studierende die Möglichkeit, andere internationale und deutsche Studierende kennenzulernen und nützliche Informationen über die Universität und die Stadt Bielefeld zu bekommen. Zudem erhalten sie wichtige Informationen zu den ersten Schritten nach ihrer Ankunft, zum Studiensystem und -organisation, Studienfinanzierung und zum rechtlichen Rahmen des Studienaufenthalts.<br />
+        Wir empfehlen allen neuen Studierenden die Teilnahme an den Orientierungstagen für einen erleichterten Studienbeginn.
+        Das Programm finden Sie im <a href="https://www.uni-bielefeld.de/studium/studieninteressierte/international/come-in/studium-mit-abschluss/download/index.xml?__lang=de">Downloadbereich</a> unter „Studienbeginn“.
+            Internationale Studierende, die aufgrund einer späteren Anreise nicht an den Orientierungstagen teilnehmen können, können sich an den ISSC Welcome Desk wenden und sich für eine individuelle Einführunganmelden. Hier erhalten sie die wesentlichsten Informationen zur Orientierung und zum Studienbeginn.</li><br /><br />
+        <li>
+        <b>Mentoring für internationale Studierende</b><br />
+         Einen wichtigen Teil der Orientierung ist das <a href="https://www.uni-bielefeld.de/studium/studieninteressierte/international/mentee-werden/"> International Mentoring Programme (IMP)</a>. Neue internationale Studierende können sich als Mentee anmelden und bekommen eine Mentorin / einen Mentor aus einem höheren Semester zugewiesen. Die Mentees haben so die Möglichkeit, schnell Kontakt zu Studierenden aus höheren Semestern zu knüpfen, eine Ansprechperson für Fragen zum Studium, zur Universität und zum Alltagsleben in der Stadt sowie eine Begleitung durch Behördengänge zu haben. Mentees und Mentoren / Mentorinnen können an einem Interkulturellen Trainings-Workshop teilnehmen sowie an allen sozialen Aktivitäten, die vom IMP organisiert werden.
+        </li><br /><br />
+
+        <li>
+        <b>Beratung</b><br />
+        Die Beratung des ISSCs zielt darauf ab, Studierende in allen Studiensituationen mit gezielten Informationen und Orientierungsmöglichkeiten bei Problemlösungen in schwierigen Situationen und Lebenslagen zu unterstützen. Die Hauptberatungsbereiche umfassen die Studienfinanzierung und Stipendienmöglichkeiten, aufenthaltsrechtliche Angelegenheiten und andere Behördengänge sowie die Studienorientierung und das Studien- und Prüfungssystem. Als zentrale Anlaufstelle für internationale Studierende ist die ISSC-Beratung eng mit anderen zentralen Beratungseinrichtungen der Universität und Vereinen für Studierende vernetzt und nutzt diese Netzwerke aktiv in der Beratung.
+        Finanzierung und Aufenthalt
+        Aufenthaltsrechtliche Angelegenheiten, Studienfinanzierung, Stipendien und Nothilfen, Nebenjobsuche sowie besondere Anliegen<br />
+        Ansprechpersonen<br />
+        Dr. David Seaman, Mo. 14.00 – 16.00 Uhr im Raum UHG D0-144<br />
+        Pia Tiemann-Riedel, Di. 10.30 – 11.30  + Do. 12:30 – 13:30 Uhr im Raum UHG D0-120
+
+        </li><br /><br />
+
+        <li>
+        <b>Finanzielle Unterstützung</b><br />
+
+        Das ISSC bietet Stipendien und Preise für internationale degree-seeking Studierende an.<br />
+        Studierende, die sich in der Studienabschlussphase befinden, können sich für die <a href="https://www.uni-bielefeld.de/studium/studieninteressierte/international/come-in/studium-mit-abschluss/download/Richtlinien-Studienabschlusshilfe-DE_2019.pdf"> Studienabschlusshilfe - Erfolgreich zum Studienabschluss!</a> aus Mitteln des Deutschen Akademischen Austauschdienstes (DAAD)  bewerben. Die Studienabschlusshilfe soll Studierende von finanziellen Sorgen und Stress entlasten, um ihre Aufmerksamkeit der Abschlussprüfung widmen zu können. Die Bewerbungsfrist ist der 15. Januar für eine Förderung im Sommersemester und der 15. Juli für eine Förderung im Wintersemester.<br />
+        Alle Dokumente finden Sie im <a href="https://www.uni-bielefeld.de/studium/studieninteressierte/international/come-in/studium-mit-abschluss/download/index.xml">Downloadbereich unter „Abschlussphase“</a>.<br />
+        Es werden auch viele Preise für internationale Studierende mit guten Studienleistungen und/oder geleistetem sozialen Engagement ausgeschrieben und verliehen, u.a. der mit 1.000€ dotierte jährliche DAAD-Preis.<br />
+        Für neue internationale Masterstudierende (im ersten oder zweiten Semester) in englischsprachigen MA-Programmen mit herausragenden Leistungen bietet die <a href="https://www.uni-bielefeld.de/studium/studieninteressierte/international/come-in/studium-mit-abschluss/download/Ausschreibung-Stipendium-2019.pdf">Universitätsgesellschaft Bielefeld Stipendien</a> an. Die mit 4.000 € dotierten Stipendien werden immer im Frühjahr ausgeschrieben.<br />
+        Die <a href="https://www.uni-bielefeld.de/studium/studieninteressierte/international/come-in/studium-mit-abschluss/download/index.xml">Ausschreibung finden Sie im Downloadbereich unter „Studium“</a>.<br />
+        Internationale Studierende, die sich in einer nicht selbstverschuldeten finanziellen Notsituation befinden, haben die Möglichkeit, eine finanzielle Nothilfe zu beantragen, um das Studium nicht zu gefährden.
+        </li><br /><br />
+
+        <li>
+        <b>Studienbegleitende Info-Veranstaltungen und-Workshops</b><br />
+        Das ISSC organisiert jedes Semester diverse Info-Veranstaltungen und -Workshops für internationale degree-seeking Studierende zu Themen wie aufenthaltsrechtliche Aspekte des Studienaufenthalts, Studienfinanzierung und Stipendienbewerbungen, Nebenjobsuche und Orientierung im Studium.<br />
+        Das aktuelle Angebot finden Sie <a href="https://www.uni-bielefeld.de/studium/studieninteressierte/international/come-in/studium-mit-abschluss/2019-11-25_ISSC-Infoveranstaltungen-Programm-DE.pdf">hier</a>.
+        </li><br /><br />
+
+        <li>
+        <b>Einleben und entdecken (Das Freizeit- und Kulturprogramm)</b><br />
+        Das ISSC veranstaltet jedes Semester mit Betreuungsmitteln des DAAD STIBET-Programms und einer Spende vom Verein zur Förderung von internationalen Studierenden in Bielefeld (ViSiB) ein <a href ="https://www.uni-bielefeld.de/studium/studieninteressierte/international/come-in/studium-mit-abschluss/download/Connect-and-Discover_WiSe19_20.pdf">Freizeitprogramm für internationalen degree-seeking und ERASMUS Studierende</a>. Dieses hat das Ziel, durch lokale und regionale Exkursionen, Museumsbesuche, Führungen, Wanderungen und andere Outdoor-Aktivitäten die Integration der internationalen Studierenden in ihr soziales Umfeld zu fördern.
+        </li><br /><br />
+
+        <li>
+        <b>ISSC-Newsletter:Erfolgreich studieren in der internationalen Community der Universität Bielefeld</b><br />
+        Der ISSC-Newsletter <a href="https://www.uni-bielefeld.de/studium/studieninteressierte/international/come-in/studium-mit-abschluss/newsletter/ISSC_Newsletter_1_Sept.2019.pdf">„Erfolgreich Studieren in der internationalen Community der Universität Bielefeld“</a> richtet sich sowohl an internationale degree-seeking Studierende als auch an unsere Partner_innen in den zentralen Einrichtungen und Fakultäten, die internationale Studierende unterrichten und unterstützen. Der Newsletter informiert über das aktuelle ISSC-Programm und Service Angebot sowie über aktuelle Veranstaltungen und Möglichkeiten für internationale Studierende.
+        </li>
+
+
+    </ul>
+    </body></html>
+    ]]>
+
+    </string>
+
+
+
+
 </resources>

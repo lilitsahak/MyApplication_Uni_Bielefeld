@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F5185</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
-    <color name="color1">#424549</color>
-    <color name="color2">#7e455e</color>
-    <color name="color3">#796e25</color>
-    <color name="color4">#59717c</color>
+    <color name="colorPrimary">#FFFF</color>
+    <color name="colorPrimaryDark">#FFFF</color>
+    <color name="colorAccent">#FFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="yellow">#F2DD20</color>
+    <color name="green">#14F5B4</color>
+
+    <color name = "active_dots">#F2DD20</color>
+    <color name="inactive_dots">#83878b</color>
 </resources>

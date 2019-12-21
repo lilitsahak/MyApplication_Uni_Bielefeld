@@ -1,12 +1,13 @@
 package com.example.myapplication_uni_bielefeld;
 
 import android.content.Context;
-import android.support.annotation.NonNull;
-import android.support.v4.view.PagerAdapter;
+import androidx.annotation.NonNull;
+import androidx.viewpager.widget.PagerAdapter;
+
+import android.content.res.Resources;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -17,11 +18,18 @@ public class Adapter extends PagerAdapter {
     private List<PagerItemModel> pagerItemModels;
     private LayoutInflater layoutInflater;
     private Context context;
+    private Resources resources;
     private OnButtonClickedListener listener;
 
     public Adapter(List<PagerItemModel> pagerItemModels, Context context) {
         this.pagerItemModels = pagerItemModels;
         this.context = context;
+        this.resources = context.getResources();
+    }
+
+    public void setContext(Context context, Resources resources) {
+        this.context = context;
+        this.resources = resources;
     }
 
     @Override
@@ -40,20 +48,15 @@ public class Adapter extends PagerAdapter {
         layoutInflater = LayoutInflater.from(context);
         View view = layoutInflater.inflate(R.layout.pager_item, container, false);
         ImageView imageView;
-        TextView title, desc;
-        Button button;
+        TextView titleView;
         imageView = view.findViewById(R.id.image);
-        title = view.findViewById(R.id.title);
-        desc = view.findViewById(R.id.desc);
-        button = view.findViewById(R.id.button);
-
         imageView.setImageResource(pagerItemModels.get(position).getImage());
-        desc.setText(pagerItemModels.get(position).getDesc());
-        title.setText(pagerItemModels.get(position).getTitle());
-        button.setText(pagerItemModels.get(position).getButton());
+        titleView = view.findViewById(R.id.title);
+        titleView.setText(resources.getString(pagerItemModels.get(position).getTitle()));
+
         container.addView(view, 0);
 
-        button.setOnClickListener(new View.OnClickListener() {
+        imageView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 if (listener == null) {
@@ -74,6 +77,10 @@ public class Adapter extends PagerAdapter {
 
     public void setOnButtonClickListener(OnButtonClickedListener listener) {
         this.listener = listener;
+    }
+
+    public int getItemPosition(Object object) {
+        return POSITION_NONE;
     }
 
     public interface OnButtonClickedListener {
