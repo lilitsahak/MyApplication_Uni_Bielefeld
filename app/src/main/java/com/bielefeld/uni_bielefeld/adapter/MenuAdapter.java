@@ -1,4 +1,4 @@
-package com.example.myapplication_uni_bielefeld;
+package com.bielefeld.uni_bielefeld.adapter;
 
 import android.content.Context;
 import androidx.annotation.NonNull;
@@ -11,17 +11,20 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.bielefeld.uni_bielefeld.PagerItemModel;
+import com.bielefeld.uni_bielefeld.R;
+
 import java.util.List;
 
 
-public class Adapter extends PagerAdapter {
+public class MenuAdapter extends PagerAdapter {
     private List<PagerItemModel> pagerItemModels;
     private LayoutInflater layoutInflater;
     private Context context;
     private Resources resources;
     private OnButtonClickedListener listener;
 
-    public Adapter(List<PagerItemModel> pagerItemModels, Context context) {
+    public MenuAdapter(List<PagerItemModel> pagerItemModels, Context context) {
         this.pagerItemModels = pagerItemModels;
         this.context = context;
         this.resources = context.getResources();
@@ -46,7 +49,7 @@ public class Adapter extends PagerAdapter {
     @Override
     public Object instantiateItem(@NonNull ViewGroup container, final int position) {
         layoutInflater = LayoutInflater.from(context);
-        View view = layoutInflater.inflate(R.layout.pager_item, container, false);
+        View view = layoutInflater.inflate(R.layout.item_menu, container, false);
         ImageView imageView;
         TextView titleView;
         imageView = view.findViewById(R.id.image);

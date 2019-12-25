@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name">My Application_Uni_Bielefeld</string>
+    <string name="app_name">Bielefeld University</string>
     <string name="Bielefeld_University">Bielefeld University</string>
     <string name="About_Bielefeld_and_the_University">About Bielefeld and the University</string>
-    <string name= "ProspectiveStudents">Prospective Students</string>
+    <string name="ProspectiveStudents">Prospective Students</string>
     <string name="Title_UniBie">es haj em</string>
     <string name="BeforeArrival">Before Arrival</string>
     <string name="AfterArrival">After Arrival</string>
@@ -70,24 +70,23 @@ The application period for the winter term starting in October 2020 opens on Jun
 </string>
 
 
-
     <string name="SerInst">
 
 <br><b>International Office (IO)\n\</b>
-The International Office offers counseling on the following topics: academic system, eKVV (online course catalogue), accommodation and life in Bielefeld, difficult study situations, resident permit and other similar topics. Furthermore, the IO offers counseling – within the bounds of possibility – on scholarships for international students and other study-related topics. Additionally, the International Office puts together an extensive leisure and cultural-regional program which is rich in variety: day trips, weekend excursions, multi-day trips, and meetings.\n</br>
+The International Office offers counseling on the following answers: academic system, eKVV (online course catalogue), accommodation and life in Bielefeld, difficult study situations, resident permit and other similar answers. Furthermore, the IO offers counseling – within the bounds of possibility – on scholarships for international students and other study-related answers. Additionally, the International Office puts together an extensive leisure and cultural-regional program which is rich in variety: day trips, weekend excursions, multi-day trips, and meetings.\n</br>
 
 <br>International Mentoring Programme (IMP)\n
     The International-Mentoring-Program offers international students additional support during their studies. The program aims to help you settle into Bielefeld by finding a personal mentor for you. This mentor acts as your contact person for all questions which may arise regarding the University, the academic system or life in Bielefeld. Therefore the program coordinator Lukas Poppenborg finds a mentor (a student in a higher semester) for you to help you with your questions.\n</br>
 
 <br>Student Union (AStA – Allgemeiner Studierenden Ausschuss)\n
-    The Student Union (AStA) takes care of all student issues. It is elected each year by the Student Parliament (StuPa) and it is divided by topics into different departments. The functions of the Student Union include the political representation of the students’ interests as well as the organization of cultural events. The main function of the Student Union is the implementation of the students’ interests in all relevant university committees. The Student Union also offers different consulting services that are free of charge. Their office is at C1-154.\n</br>
+    The Student Union (AStA) takes care of all student issues. It is elected each year by the Student Parliament (StuPa) and it is divided by answers into different departments. The functions of the Student Union include the political representation of the students’ interests as well as the organization of cultural events. The main function of the Student Union is the implementation of the students’ interests in all relevant university committees. The Student Union also offers different consulting services that are free of charge. Their office is at C1-154.\n</br>
 
 <br>International Student Union (ISR – Internationaler Studierenden Rat)\n
 Within the Student Union (AStA) there is a representation of international students, the International Student Union (ISR). The ISR represents the interests of international students. The ISR consists of several international students (spokesmen), who are elected by the international students each year. International students can contact the ISR if they have questions, problems or suggestions.
-        Every semester, the ISR organizes information events on important current topics, an international party, as well as leisure time activities. Newspapers are on display in their office (on level 1, next to the AStA).\n</br>
+        Every semester, the ISR organizes information events on important current answers, an international party, as well as leisure time activities. Newspapers are on display in their office (on level 1, next to the AStA).\n</br>
 
 <br>PunktUm: German Language Learning Centre\n
-PunktUm offers courses, workshops and individual consulting services for all international students and scientists including the following topics:\n
+PunktUm offers courses, workshops and individual consulting services for all international students and scientists including the following answers:\n
 • Scientific writing (e.g. reports, papers, Bachelor’s and Master’s thesis etc.)\n
 • Oral course assignments (e.g. oral exams, presentations, etc.)\n
 • Interdisciplinary and disciplinary academic language (e.g. technical language of law)\n</br>
@@ -225,32 +224,12 @@ The International Office may provide support, especially to students in English-
         and support you in overcoming the many challenges that come with studying in a foreign country. Your Academic success is important to us.</string>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    <string name= "cb1">Schritt 1: Persönliche anmeldung des Wohnsitzes (innerhalb der ersten 14 Tage nach der Ankunft) <br />
+    <string name="cb1">Schritt 1: Persönliche anmeldung des Wohnsitzes (innerhalb der ersten 14 Tage nach der Ankunft) <br />
     Formular zur Wohnungsgeberbestätigung vom Vermieter ausfüllen lassen (online verfügbar über hhps://www.bielefeld.de/ftp/formulare/Wohnungsgeberbestätigung0119.pdf
     Im Zeitraum vom 30.9-18.10., Mo.-Do. von 9 bis 15 Uhr, Fr. von 9 bis 13 Uhr am Infopunkt in der Unihalle anmelden ODER zur Bürgerberatung gehen (Neues Rathaus/Bürgeramt, Niederwall 23, 33601 Bielefeld, online Termin reservieren über https://tempus-termine.com/termine/index.php?anlagennr=83)
     nicht vergessen: Personalausweis, Reisepass und ausgefüllte Wohnungsgeberbestätigung vorlegen -> Meldebescheinigung erhalten</string>
 
-    <string name = "cb2">Schritt 2: Krankenversicherung abschließen(innerhalb von 30 Tagen nach der Ankunft)
+    <string name="cb2">Schritt 2: Krankenversicherung abschließen(innerhalb von 30 Tagen nach der Ankunft)
     Gleichartigkeit der bestehenden Versicherung prüfen (insbesondere wichtig für Studierende uas EU-Ländern sowie Partner-Ländern von entsprechenden Sozialversicherungsabkommen)
     Über verschiedene Krankenkassen und Versicherungsmöglichkeiten in Bielefeld informieren
     von einer gesetzlichen Krankenkasse Gleichartigkeit des aktuellen Versicherungsschutz bestätigen lassen ODER eine Krankenversicherung abschließen</string>
@@ -285,6 +264,24 @@ The International Office may provide support, especially to students in English-
 
     <string name="current_language">Deutsch</string>
 
-<string name ="Chechlist">Checklist for the first steps after arrival in Bielefeld</string>
+    <string name="Checklist">Checklist for the first steps after arrival in Bielefeld</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create an Account</string>
+    <string name="login">Login</string>
+    <string name="add_topic">Add Topic</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_answer">Add Answer</string>
+    <string name="error">Error</string>
+    <string name="connection_error">Connection error occurred. Please, try later.</string>
+    <string name="credential_mismathc">Your username or password do not match the records.</string>
+    <string name="topic_added">Topic started. Don\'t forget to check later on answers!</string>
+    <string name="asked_by_on">By %s on %s</string>
+    <string name="share">Share</string>
+    <string name="forum">Forum</string>
+    <string name="title_too_long">Title is too ling. It must be maximum 100 characters long.</string>
+    <string name="answer_too_long">Answer is too long. It must be maximum 500 characters.</string>
+    <string name="no_discussions">There are no discussion yet.</string>
+    <string name="no_answers">No answers yet. Check later!</string>
 
 </resources>

@@ -1,11 +1,10 @@
-package com.example.myapplication_uni_bielefeld.Helper;
+package com.bielefeld.uni_bielefeld.helper;
 
 import android.annotation.TargetApi;
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.content.res.Configuration;
 import android.content.res.Resources;
-import android.icu.util.LocaleData;
 import android.os.Build;
 import android.preference.PreferenceManager;
 

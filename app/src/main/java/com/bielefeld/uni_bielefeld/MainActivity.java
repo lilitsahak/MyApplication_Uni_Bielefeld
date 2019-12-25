@@ -1,4 +1,4 @@
-package com.example.myapplication_uni_bielefeld;
+package com.bielefeld.uni_bielefeld;
 
 import android.content.Context;
 import android.content.Intent;
@@ -17,20 +17,25 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 
 
-import com.example.myapplication_uni_bielefeld.Helper.LocalHelper;
+import com.bielefeld.uni_bielefeld.adapter.MenuAdapter;
+import com.bielefeld.uni_bielefeld.forum.ForumLoginActivity;
+import com.bielefeld.uni_bielefeld.forum.TopicListActivity;
+import com.bielefeld.uni_bielefeld.helper.LocalHelper;
 
 import java.util.ArrayList;
 import java.util.List;
+
 import io.paperdb.Paper;
 
 public class MainActivity extends AppCompatActivity {
-    private Button shareButton;
 
     private ViewPager viewPager;
 
-    private Adapter adapter;
+    private MenuAdapter menuAdapter;
     private List<PagerItemModel> pagerItemModels;
     private Button languageButton;
+    private Button shareButton;
+    private Button forumButton;
 
     private LinearLayout dotsLayout;
 
@@ -59,9 +64,9 @@ public class MainActivity extends AppCompatActivity {
         pagerItemModels.add(new PagerItemModel(R.drawable.pager_pic_7, R.string.FinancialAid));
         pagerItemModels.add(new PagerItemModel(R.drawable.pager_pic_6, R.string.ISSC));
 
-        adapter = new Adapter(pagerItemModels, this);
+        menuAdapter = new MenuAdapter(pagerItemModels, this);
         viewPager = findViewById(R.id.menuPager);
-        viewPager.setAdapter(adapter);
+        viewPager.setAdapter(menuAdapter);
         prepareDots(0);
 
         viewPager.setPadding(130, 0, 130, 0);
@@ -79,7 +84,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        adapter.setOnButtonClickListener(new Adapter.OnButtonClickedListener() {
+        menuAdapter.setOnButtonClickListener(new MenuAdapter.OnButtonClickedListener() {
             @Override
             public void onButtonClicked(int position) {
                 if (position == 0) {
@@ -147,18 +152,38 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        forumButton = findViewById(R.id.forum_button);
+        forumButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                String username = Paper.book()
+                        .read("username",  "");
+
+                if (username.isEmpty()) {
+                    startActivity(new Intent(
+                            MainActivity.this,
+                            ForumLoginActivity.class));
+                } else {
+                    startActivity(new Intent(
+                            MainActivity.this,
+                            TopicListActivity.class));
+                }
+            }
+        });
+
         updateView((String) Paper.book().read("language"));
     }
 
     private void updateView(String language) {
         Context context = LocalHelper.setLocale(this, language);
         Resources resources = context.getResources();
-        adapter.setContext(context, resources);
-        adapter.notifyDataSetChanged();
+        menuAdapter.setContext(context, resources);
+        menuAdapter.notifyDataSetChanged();
 
         languageButton.setText(resources.getString(R.string.current_language));
+        shareButton.setText(R.string.share);
+        forumButton.setText(R.string.forum);
     }
-
 
     @Override
     protected void attachBaseContext(Context newBase) {

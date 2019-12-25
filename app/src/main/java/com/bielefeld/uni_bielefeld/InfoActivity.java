@@ -1,10 +1,8 @@
-package com.example.myapplication_uni_bielefeld;
+package com.bielefeld.uni_bielefeld;
 
 import android.content.Context;
-import android.content.Intent;
 import android.content.res.Resources;
-import android.graphics.drawable.Drawable;
-import android.net.Uri;
+
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Build;
@@ -16,7 +14,7 @@ import android.text.method.LinkMovementMethod;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.example.myapplication_uni_bielefeld.Helper.LocalHelper;
+import com.bielefeld.uni_bielefeld.helper.LocalHelper;
 
 import io.paperdb.Paper;
 

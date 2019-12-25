@@ -1,9 +1,9 @@
-package com.example.myapplication_uni_bielefeld;
+package com.bielefeld.uni_bielefeld;
 
 import  android.app.Application;
 import android.content.Context;
 
-import com.example.myapplication_uni_bielefeld.Helper.LocalHelper;
+import com.bielefeld.uni_bielefeld.helper.LocalHelper;
 
 import io.paperdb.Paper;
 

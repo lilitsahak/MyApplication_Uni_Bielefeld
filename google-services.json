@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "256545024046",
+    "firebase_url": "https://bielefeld-app-d2a7b.firebaseio.com",
+    "project_id": "bielefeld-app-d2a7b",
+    "storage_bucket": "bielefeld-app-d2a7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256545024046:android:be0d380836b3d64f8e57bf",
+        "android_client_info": {
+          "package_name": "com.bielefeld.uni_bielefeld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256545024046-ipaep7ir3irigtfgb708sdjjchu5ng3e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bielefeld.uni_bielefeld",
+            "certificate_hash": "97bf5c9d4c1d6b88faae2ce8d4dd34455b0344ce"
+          }
+        },
+        {
+          "client_id": "256545024046-lnlhilt5a5hma76deks1qj3p8ecdoinj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXybP1lhSHOu4WNzZI9Agpq5p65yLFrTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256545024046-lnlhilt5a5hma76deks1qj3p8ecdoinj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

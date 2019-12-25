@@ -1,4 +1,4 @@
-package com.example.myapplication_uni_bielefeld;
+package com.bielefeld.uni_bielefeld;
 
 import android.content.Context;
 import android.content.res.Resources;
@@ -14,7 +14,7 @@ import androidx.annotation.RequiresApi;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 
-import com.example.myapplication_uni_bielefeld.Helper.LocalHelper;
+import com.bielefeld.uni_bielefeld.helper.LocalHelper;
 
 import io.paperdb.Paper;
 
@@ -91,7 +91,7 @@ public class ChecklistActivity extends AppCompatActivity {
         cb4.setText(Html.fromHtml(resources.getString(R.string.cb4), Html.FROM_HTML_MODE_COMPACT));
         cb5.setText(Html.fromHtml(resources.getString(R.string.cb5), Html.FROM_HTML_MODE_COMPACT));
 
-        getSupportActionBar().setTitle(resources.getString(R.string.Chechlist));
+        getSupportActionBar().setTitle(resources.getString(R.string.Checklist));
         imageView.setImageResource(R.drawable.pager_pic_3);
     }
 
@@ -110,11 +110,6 @@ public class ChecklistActivity extends AppCompatActivity {
             text.setText("you still have some steps to do");
         }
     }
-
-
-
-
-
 
     @Override
     public boolean onSupportNavigateUp() {

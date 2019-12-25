@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">My Application_Uni_Bielefeld</string>
+    <string name="app_name">Universität Bielefeld</string>
     <string name="Bielefeld_University">Universität Bielefeld</string>
     <string name="About_Bielefeld_and_the_University">Über Bielefeld und die Universität</string>
     <string name="Title_UniBie">es haj em</string>
@@ -394,7 +394,6 @@ Für internationale Studierende gibt es <a href="https://www.uni-bielefeld.de/st
     </string>
 
     <string name="current_language">English</string>
-    <string name = "Chechlist">Checkliste für die ersten Schritte nach der Ankunft in Bielefeld</string>
     <string name="ISSC_title">ISSC</string>
     <string name="ISSC_info">
          <![CDATA[
@@ -462,7 +461,24 @@ Für internationale Studierende gibt es <a href="https://www.uni-bielefeld.de/st
 
     </string>
 
-
-
+    <string name="Checklist">Eine Checkliste für die ersten Schritte nach dem Ankunft in Bielefeld</string>
+    <string name="username">Benutzername</string>
+    <string name="password">Passwort</string>
+    <string name="create_account">Profil erstellen</string>
+    <string name="login">Einloggen</string>
+    <string name="add_topic">Thema hinzufügen</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="add_answer">Anwort hinzufügen</string>
+    <string name="error">Fehler</string>
+    <string name="connection_error">Verbindungsfehler, versuch nochmal später.</string>
+    <string name="credential_mismathc">Your username or password do not match the records.</string>
+    <string name="topic_added">Thema ist gestartet. Vergießt nicht später die ANworten zu gucken Topic!</string>
+    <string name="asked_by_on">By %s on %s</string>
+    <string name="share">Teilen</string>
+    <string name="forum">Forum</string>
+    <string name="title_too_long">Der Titel ist zu lang, du darfst maximal 100 Zeichen verwenden.</string>
+    <string name="answer_too_long">Deine Antwort ist zu lang. Du darfst maximal 500 Zeichen verwenden.</string>
+    <string name="no_discussions">Es gibt noch keine Diskussion!</string>
+    <string name="no_answers">Es gibt noch keine Antworten. Schau später nochmal rein. !</string>
 
 </resources>

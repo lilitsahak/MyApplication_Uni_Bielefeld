@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">My Application_Uni_Bielefeld</string>
+    <string name="app_name">Bielefeld University</string>
     <string name="Bielefeld_University">Bielefeld University</string>
     <string name="About_Bielefeld_and_the_University">About Bielefeld and the University</string>
     <string name="Title_UniBie">es haj em</string>
@@ -101,20 +101,20 @@ The application period for the winter term starting in October 2020 <b>opens on 
 <html>
 <body>
 <p><b>International Office (IO)</b></p><br />
-The International Office offers counseling on the following topics: academic system, eKVV (online course catalogue), accommodation and life in Bielefeld, difficult study situations, resident permit and other similar topics. Furthermore, the IO offers counseling – within the bounds of possibility – on scholarships for international students and other study-related topics. Additionally, the International Office puts together an extensive leisure and cultural-regional program which is rich in variety: day trips, weekend excursions, multi-day trips, and meetings.<br /> <br /
+The International Office offers counseling on the following answers: academic system, eKVV (online course catalogue), accommodation and life in Bielefeld, difficult study situations, resident permit and other similar answers. Furthermore, the IO offers counseling – within the bounds of possibility – on scholarships for international students and other study-related answers. Additionally, the International Office puts together an extensive leisure and cultural-regional program which is rich in variety: day trips, weekend excursions, multi-day trips, and meetings.<br /> <br /
 
 <p><b>International Mentoring Programme (IMP)</b></p><br />
     The International-Mentoring-Program offers international students additional support during their studies. The program aims to help you settle into Bielefeld by finding a personal mentor for you. This mentor acts as your contact person for all questions which may arise regarding the University, the academic system or life in Bielefeld. Therefore the program coordinator Lukas Poppenborg finds a mentor (a student in a higher semester) for you to help you with your questions.<br /><br />
 
 <p><b>Student Union (AStA – Allgemeiner Studierenden Ausschuss)</b></p><br />
-    The Student Union (AStA) takes care of all student issues. It is elected each year by the Student Parliament (StuPa) and it is divided by topics into different departments. The functions of the Student Union include the political representation of the students’ interests as well as the organization of cultural events. The main function of the Student Union is the implementation of the students’ interests in all relevant university committees. The Student Union also offers different consulting services that are free of charge. Their office is at C1-154.<br /><br />
+    The Student Union (AStA) takes care of all student issues. It is elected each year by the Student Parliament (StuPa) and it is divided by answers into different departments. The functions of the Student Union include the political representation of the students’ interests as well as the organization of cultural events. The main function of the Student Union is the implementation of the students’ interests in all relevant university committees. The Student Union also offers different consulting services that are free of charge. Their office is at C1-154.<br /><br />
 
 <p><b>International Student Union (ISR – Internationaler Studierenden Rat)</b></p><br />
 Within the Student Union (AStA) there is a representation of international students, the International Student Union (ISR). The ISR represents the interests of international students. The ISR consists of several international students (spokesmen), who are elected by the international students each year. International students can contact the ISR if they have questions, problems or suggestions.
-        Every semester, the ISR organizes information events on important current topics, an international party, as well as leisure time activities. Newspapers are on display in their office (on level 1, next to the AStA).<br />br />
+        Every semester, the ISR organizes information events on important current answers, an international party, as well as leisure time activities. Newspapers are on display in their office (on level 1, next to the AStA).<br />br />
 
 <p><b>PunktUm: German Language Learning Centre</b></p><br />
-PunktUm offers courses, workshops and individual consulting services for all international students and scientists including the following topics:<br />
+PunktUm offers courses, workshops and individual consulting services for all international students and scientists including the following answers:<br />
 <ul>
 
 <li> Scientific writing (e.g. reports, papers, Bachelor’s and Master’s thesis etc.)</li>
@@ -447,5 +447,25 @@ The International Office <a href="https://www.uni-bielefeld.de/studium/studienin
     <string name="wow">Congratulations</string>
     <string name="done">Do the following steps in order to accomplish the enrollment procedure</string>
     <string name="current_language">Deutsch</string>
-    <string name = "Chechlist">Checklist for the first steps after arrival in Bielefeld</string>
+    <string name ="Checklist">Checklist for the first steps after arrival in Bielefeld</string>
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create an Account</string>
+    <string name="login">Login</string>
+    <string name="add_topic">Add Topic</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_answer">Add Answer</string>
+    <string name="error">Error</string>
+    <string name="connection_error">Connection error occurred. Please, try later.</string>
+    <string name="credential_mismathc">Your username or password do not match the records.</string>
+    <string name="topic_added">Topic started. Don\'t forget to check later on answers!</string>
+    <string name="asked_by_on">By %s on %s</string>
+    <string name="share">Share</string>
+    <string name="forum">Forum</string>
+    <string name="title_too_long">Title is too ling. It must be maximum 100 characters long.</string>
+    <string name="answer_too_long">Answer is too long. It must be maximum 500 characters.</string>
+    <string name="no_discussions">There are no discussion yet.</string>
+    <string name="no_answers">No answers yet. Check later!</string>
+
 </resources>

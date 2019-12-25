@@ -1,4 +1,4 @@
-package com.example.myapplication_uni_bielefeld;
+package com.bielefeld.uni_bielefeld;
 
 import org.junit.Test;
 
