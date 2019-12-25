@@ -9,7 +9,10 @@ import android.content.Intent;
 import android.content.res.Resources;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.Button;
 import android.widget.EditText;
+import android.widget.TextView;
+
 import androidx.appcompat.widget.Toolbar;
 
 import com.bielefeld.uni_bielefeld.MainActivity;
@@ -57,10 +60,19 @@ public class ForumLoginActivity extends AppCompatActivity {
         final String password = passwordEditText.getText().toString();
 
         if (username.length() < 3) {
-
+            DialogHelper.showDialog(
+                    R.string.error,
+                    R.string.short_username,
+                    this
+            );
             return;
         }
         if (password.length() < 5) {
+            DialogHelper.showDialog(
+                    R.string.error,
+                    R.string.short_password,
+                    this
+            );
             return;
         }
 
@@ -139,6 +151,18 @@ public class ForumLoginActivity extends AppCompatActivity {
     private void updateView(String language) {
         Context context = LocalHelper.setLocale(this, language);
         Resources resources = context.getResources();
+
+        Button loginButton = findViewById(R.id.login);
+        loginButton.setText(resources.getString(R.string.login));
+
+        EditText usernameEditText = findViewById(R.id.username);
+        usernameEditText.setHint(resources.getString(R.string.username));
+
+        EditText passwordEditText = findViewById(R.id.password);
+        passwordEditText.setHint(resources.getString(R.string.password));
+
+        TextView loginTitleTextView = findViewById(R.id.login_title);
+        loginTitleTextView.setText(resources.getString(R.string.create_account));
     }
 
     @Override

@@ -444,9 +444,9 @@ The International Office <a href="https://www.uni-bielefeld.de/studium/studienin
 
 
 
-    <string name="wow">Congratulations</string>
-    <string name="done">Do the following steps in order to accomplish the enrollment procedure</string>
-    <string name="current_language">Deutsch</string>
+
+
+    <string name="current_language">English</string>
     <string name ="Checklist">Checklist for the first steps after arrival in Bielefeld</string>
 
     <string name="username">Username</string>
@@ -467,5 +467,11 @@ The International Office <a href="https://www.uni-bielefeld.de/studium/studienin
     <string name="answer_too_long">Answer is too long. It must be maximum 500 characters.</string>
     <string name="no_discussions">There are no discussion yet.</string>
     <string name="no_answers">No answers yet. Check later!</string>
+    <string name="short_username">Username is too short. It must be at least 3 characters long.</string>
+    <string name="short_password">Password is too short. It must be at least 3 characters long.</string>
+    <string name="partially_done">You still have several steps to accomplish</string>
+    <string name="not_done">Do the following steps in order to get enrolled at the university</string>
+    <string name="done">Congratulations!!! You accomplished the enrollment procedure</string>
+
 
 </resources>

@@ -15,6 +15,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 
 import com.bielefeld.uni_bielefeld.helper.LocalHelper;
+import com.google.android.material.snackbar.Snackbar;
 
 import io.paperdb.Paper;
 
@@ -24,13 +25,13 @@ public class ChecklistActivity extends AppCompatActivity {
    // public static final String INFO = "info";
     private Toolbar toolbar;
     private ImageView imageView;
+    private String language;
 
-    CheckBox cb1;
-    CheckBox cb2;
-    CheckBox cb3;
-    CheckBox cb4;
-    CheckBox cb5;
-    TextView text;
+    private CheckBox cb1;
+    private CheckBox cb2;
+    private CheckBox cb3;
+    private CheckBox cb4;
+    private CheckBox cb5;
 
     @Override
     protected void attachBaseContext(Context newBase) {
@@ -45,9 +46,7 @@ public class ChecklistActivity extends AppCompatActivity {
 
         imageView = findViewById(R.id.image);
         Paper.init(this);
-        String language = Paper.book().read("language");
-        if (language == null)
-            Paper.book().write("language", "en");
+        language = Paper.book().read("language");
 
         toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
@@ -59,7 +58,6 @@ public class ChecklistActivity extends AppCompatActivity {
         cb3 = findViewById(R.id.check3);
         cb4 = findViewById(R.id.check4);
         cb5 = findViewById(R.id.check5);
-        text = findViewById(R.id.textView);
 
         cb1.setChecked(Paper.book()
                 .read("cb1",  "unchecked")
@@ -79,7 +77,7 @@ public class ChecklistActivity extends AppCompatActivity {
 
         onCheckClicked(null);
 
-        updateView((String) Paper.book().read("language"));
+        updateView(language);
     }
 
     private void updateView(String lang) {
@@ -102,12 +100,19 @@ public class ChecklistActivity extends AppCompatActivity {
         Paper.book().write("cb4", cb4.isChecked() ? "checked" : "unchecked");
         Paper.book().write("cb5", cb5.isChecked() ? "checked" : "unchecked");
 
+        View container = findViewById(R.id.container);
+        Context context = LocalHelper.setLocale(this, language);
+        Resources resources = context.getResources();
 
-        if (cb1.isChecked() && cb2.isChecked() && cb3.isChecked() && cb4.isChecked() && cb5.isChecked())
-        {
-            text.setText("wow congrats");
+        if (cb1.isChecked() && cb2.isChecked() && cb3.isChecked() && cb4.isChecked() && cb5.isChecked()) {
+            Snackbar.make(container, resources.getString(R.string.done), Snackbar.LENGTH_LONG)
+                    .show();
         } else if (cb1.isChecked() || cb2.isChecked() || cb3.isChecked() || cb4.isChecked() || cb5.isChecked() ) {
-            text.setText("you still have some steps to do");
+            Snackbar.make(container, resources.getString(R.string.partially_done), Snackbar.LENGTH_LONG)
+                    .show();
+        } else {
+            Snackbar.make(container, resources.getString(R.string.not_done), Snackbar.LENGTH_LONG)
+                    .show();
         }
     }
 

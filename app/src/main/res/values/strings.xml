@@ -11,8 +11,6 @@
     <string name="FinancialAid">Financing</string>
     <string name="ISSC">International Student Services Centre</string>
     <string name="ISSC_title">ISSC</string>
-    <string name="done">Do the following steps in order to accomplish the enrollment procedure</string>
-    <string name="wow">herzlichen Glückwunsch</string>
 
     <string name="UniBie"> <b>A Lovable place to Live\n\n</b>
         <br>Down to earth, pleasantly normal and laid back: a good description of many of the citys residents and of Bielefeld itself. It is precisely that mixture of a metropolitan atmosphere and almost village-like sociability that makes Bielefeld what it is: an especially lovable city to live in. \n\n</br>
@@ -283,5 +281,10 @@ The International Office may provide support, especially to students in English-
     <string name="answer_too_long">Answer is too long. It must be maximum 500 characters.</string>
     <string name="no_discussions">There are no discussion yet.</string>
     <string name="no_answers">No answers yet. Check later!</string>
+    <string name="short_username">Username is too short. It must be at least 3 characters long.</string>
+    <string name="short_password">Password is too short. It must be at least 3 characters long.</string>
+    <string name="partially_done">You still have several steps to accomplish</string>
+    <string name="not_done">Do the following steps in order to get enrolled at the university</string>
+    <string name="done">Congratulations!!! You accomplished the enrollment procedure</string>
 
 </resources>

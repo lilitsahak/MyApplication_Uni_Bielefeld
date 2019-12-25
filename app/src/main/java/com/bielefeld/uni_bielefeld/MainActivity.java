@@ -181,8 +181,8 @@ public class MainActivity extends AppCompatActivity {
         menuAdapter.notifyDataSetChanged();
 
         languageButton.setText(resources.getString(R.string.current_language));
-        shareButton.setText(R.string.share);
-        forumButton.setText(R.string.forum);
+        shareButton.setText(resources.getString(R.string.share));
+        forumButton.setText(resources.getString(R.string.forum));
     }
 
     @Override

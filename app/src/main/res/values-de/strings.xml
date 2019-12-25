@@ -9,8 +9,6 @@
     <string name="Deadlines">Fristen und Bewerbungen</string>
     <string name= "ProspectiveStudents">Studieninterssierte</string>
     <string name="ServiceInstitutions">Service und Institutionen</string>
-    <string name="done">mach die folgenden Schritte um eingeschrieben zu sein</string>
-    <string name="wow">herzlichen Glückwunsch</string>
 
     <string name="FinancialAid">Finanzierung</string>
     <string name="ISSC">International Student Services Centre</string>
@@ -393,7 +391,7 @@ Für internationale Studierende gibt es <a href="https://www.uni-bielefeld.de/st
      ]]>
     </string>
 
-    <string name="current_language">English</string>
+    <string name="current_language">Deutsch</string>
     <string name="ISSC_title">ISSC</string>
     <string name="ISSC_info">
          <![CDATA[
@@ -480,5 +478,10 @@ Für internationale Studierende gibt es <a href="https://www.uni-bielefeld.de/st
     <string name="answer_too_long">Deine Antwort ist zu lang. Du darfst maximal 500 Zeichen verwenden.</string>
     <string name="no_discussions">Es gibt noch keine Diskussion!</string>
     <string name="no_answers">Es gibt noch keine Antworten. Schau später nochmal rein. !</string>
+    <string name="short_username">Der Benutzername ist zu kurz. Darf mindensten 3 Zeichen enthalten.</string>
+    <string name="short_password">Das Passwort ist zu kurz. Darf mimdestens 3 Zeichen enthalten.</string>
+    <string name="partially_done">Du musst die folgende Schriite machen um einen eingeschriebenen Student zu werden.</string>
+    <string name="not_done">Du hast noch einige Schrite zu machen</string>
+    <string name="done">Herzlichen Glückwunsch!! Du bist eingeschrieben</string>
 
 </resources>
